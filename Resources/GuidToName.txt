@@ -507,3 +507,5 @@ fcfeecae-ee1b-4849-ae50-685dcf7717ec|Problem Reports and Solutions
 5fcd4425-ca3a-48f4-a57c-b8a75c32acb1|Hewlett-Packard Recovery (Protect.dll)
 047ddc7e-f9c2-11dd-a093-79d855d89593|Kaspersky Suite
 cce6191f-13b2-44fa-8d14-324728beef2c|Search results
+345b91d6-935f-4773-9926-210c335241f9|Box Drive
+04271989-c4d2-b8f6-2d7a-c6fffc2420dd|OneDrive Business
