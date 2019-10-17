@@ -34,6 +34,7 @@ a9ba98bb-da7e-4f53-bc77-9d348f4f248d|Citrix ShareFile
 384ea5ae-ade1-4e8a-8a9b-7bea78fff1e9|Search folder
 2b20df75-1eda-4039-8097-38798227d5b7|Camera roll
 95b72ae2-b386-4625-8b56-e169c42ae391|Egnyte
+22b66d4d-bc01-4119-9364-71ef9a06efc9|Egnyte
 e31ea727-12ed-4702-820c-4b6445f28e1b|Dropbox Business
 4a8fcd9f-623c-4283-96f0-10f41846a98a|Box Sync
 26afdb68-5aba-49cb-9207-f4b7fcdbc980|Catch
