@@ -438,6 +438,7 @@ b7534046-3ecb-4c18-be4e-64cd4cb7d6ac|Recycle Bin
 b7bede81-df94-4682-a7d8-57a52620b86f|Screenshots
 b94237e7-57ac-4347-9151-b08c6c32d1f7|Common Templates
 b97d20bb-f46a-4c97-ba10-5e3608430854|Startup
+f02a2795-066c-47ba-936f-1517ba462169|Office Work Folders
 bcb5256f-79f6-4cee-b725-dc34e402fd46|ImplicitAppShortcuts
 bcbd3057-ca5c-4622-b42d-bc56db0ae516|Programs
 bfb9d5e0-c6a9-404c-b2b2-ae6db6af4968|Links
