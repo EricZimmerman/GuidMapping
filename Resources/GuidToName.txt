@@ -2,6 +2,7 @@
 d3162b92-9365-467a-956b-92703aca08af|Documents
 4564b25e-30cd-4787-82ba-39e73a750b14|Recent Items Instance Folder
 5b934b42-522b-4c34-bbfe-37a3ef7b9c90|This Device Folder
+adfa80e7-9769-4ad9-992c-55dc57e1008c|StartMenuAllPrograms
 679f85cb-0220-4080-b29b-5540cc05aab6|Home Folder
 36aab89d-9ff5-4128-9bae-b9867a245192|Storm video
 85bbd920-42a0-1069-a2e4-08002b30309d|Briefcase
