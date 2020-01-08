@@ -15,6 +15,7 @@ f673ed46-ca8a-4fb4-9ba7-6907033851e2|MegaSync
 3b193882-d3ad-4eab-965a-69829d1fb59f|Saved pictures
 f178c11b-b6c5-4d71-b528-64381d2024fc|Huawei B528
 3d6be802-fc0d-4595-a304-e611f97089dc|Nero Scout
+ca9a9348-b9bc-455e-80dc-8e803145f80b|BoxCryptor
 102986af-0728-447d-83b4-c3cd4f70f273|ODrive
 59525f37-21b7-4ed7-9568-a0f421fba3a4|Websites
 59b0f512-bd54-46f7-a872-039788a3a5ad|Simatic Shell SIEMENS AG
