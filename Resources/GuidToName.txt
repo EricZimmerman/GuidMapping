@@ -413,6 +413,7 @@ ab5fb87b-7ce2-4f83-915d-550846c9537b|Camera Roll
 82a5ea35-d9cd-47c5-9629-e15d2f714e6e|Common Startup
 82a74aeb-aeb4-465c-a014-d097ee346d63|Control Panel
 859ead94-2e85-48ad-a71a-0969cb56a6cd|Sample Videos
+a69d3ad6-3ba4-4257-9b2a-b3f52cdc5bb0|CSR Harmony Wireless Software Stack
 8983036c-27c0-404b-8f08-102d10dcfd74|Send To
 8ad10c31-2adb-4296-a8f7-e4701232c972|Resources
 905e63b6-c1bf-494e-b29c-65b732d3d21a|Program Files
