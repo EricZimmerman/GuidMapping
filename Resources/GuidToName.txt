@@ -10,6 +10,7 @@ adfa80e7-9769-4ad9-992c-55dc57e1008c|StartMenuAllPrograms
 ecdb0924-4208-451e-8ee0-373c0956de16|Work Folders
 b816a83a-5022-11dc-9153-0090f5284f85|Swish SFTP
 9e0f0c0a-454b-11e8-8685-9cb6d007204c|Box
+7ad67899-66af-43ba-9156-6aad42e6c596|AllAppMods
 f673ed46-ca8a-4fb4-9ba7-6907033851e2|MegaSync
 0ece4426-2d77-4760-b532-2a51cd19c8cf|nCryptedCloud
 45c6afa5-2c13-402f-bc5d-45cc8172ef6b|Toshiba Bluetooth Stack
