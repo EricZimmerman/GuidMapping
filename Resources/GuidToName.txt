@@ -340,6 +340,7 @@ ed7ba470-8e54-465e-825c-99712043e01c|All Tasks
 ed834ed6-4b5a-4bfe-8f11-a626dcb6a921|Personalization Control Panel
 edc978d6-4d53-4b2f-a265-5805674be568|Stream Backed Folder
 f02c1a0d-be21-4350-88b0-7367fc96ef3c|Computers and Devices
+81539fe6-33c7-4ce7-90c7-1c7b8f2f2d41|Google Drive
 f1390a9a-a3f4-4e5d-9c5f-98f3bd8d935c|Sync Setup Delegate Folder
 f3f5824c-ad58-4728-af59-a1ebe3392799|Sticky Notes Namespace Extension for Windows Desktop Search
 f5175861-2688-11d0-9c5e-00aa00a45957|Subscription Folder
