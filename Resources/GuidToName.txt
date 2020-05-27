@@ -331,6 +331,7 @@ e773f1af-3a65-4866-857d-846fc9c4598a|Shell Storage Folder Viewer
 e7de9b1a-7533-4556-9484-b26fb486475e|Network Map
 e7e4bc40-e76a-11ce-a9bb-00aa004ae837|Shell DocObject Viewer
 e88dcce0-b7b3-11d1-a9f0-00aa0060fa31|Compressed Folder
+862d80ce-a2a4-45d4-8008-7f40766f5fea|Motorola Bluetooth
 e95a4861-d57a-4be1-ad0f-35267e261739|Windows Side Show
 a990ae9f-a03b-4e80-94bc-9912d7504104|Pictures
 e9950154-c418-419e-a90a-20c5287ae24b|Sensors
