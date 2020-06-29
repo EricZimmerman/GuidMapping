@@ -419,6 +419,7 @@ ab5fb87b-7ce2-4f83-915d-550846c9537b|Camera Roll
 a69d3ad6-3ba4-4257-9b2a-b3f52cdc5bb0|CSR Harmony Wireless Software Stack
 b2b4a4d1-2754-4140-a2eb-9a76d9d7cdc6|Linux (WSL)
 1fbd11ef-1260-11d1-87a7-444553540001|Synapse Medical
+7ae6de87-c956-4b40-9c89-3d166c9841d3|WPS Pro
 8983036c-27c0-404b-8f08-102d10dcfd74|Send To
 8ad10c31-2adb-4296-a8f7-e4701232c972|Resources
 905e63b6-c1bf-494e-b29c-65b732d3d21a|Program Files
