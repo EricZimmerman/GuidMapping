@@ -396,6 +396,7 @@ ab5fb87b-7ce2-4f83-915d-550846c9537b|Camera Roll
 4d9f7874-4e0c-4904-967b-40b0d20c3e4b|The Internet
 52528a6b-b9e3-4add-b60d-588c2dba842d|Homegroup
 52a4f021-7b75-48a9-9f6b-4b87a210bc8f|Quick Launch
+11c9dd7b-ccf5-4502-90a1-fee8889976d5|Yandex Disk
 56784854-c6cb-462b-8169-88e350acb882|Contacts
 5cd7aee2-2219-4a67-b85d-6c9ce15660cb|Programs
 5ce4a5e9-e4eb-479d-b89f-130c02886155|DeviceMetadataStore
