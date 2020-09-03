@@ -367,6 +367,7 @@ ab5fb87b-7ce2-4f83-915d-550846c9537b|Camera Roll
 0ac0837c-bbf8-452a-850d-79d08e667ca7|Computer
 0d4c3db6-03a3-462f-a0e6-08924c41b5d4|History
 0f214138-b1d3-4a90-bba9-27cbc0c5389a|Sync Setup
+2e0a8592-e119-409e-b24e-a9fa0756156d|Carbonite
 15ca69b3-30ee-49c1-ace1-6b5ec372afb5|Sample Playlists
 5b3749ad-b49f-49c1-83eb-15370fbd4882|Tree Properties
 1777f761-68ad-4d8a-87bd-30b759fa33dd|Favorites
