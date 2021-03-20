@@ -415,6 +415,7 @@ ab5fb87b-7ce2-4f83-915d-550846c9537b|Camera Roll
 7c5a40ef-a0fb-4bfc-874a-c0f2e0b9fa8e|Program Files x86
 7d1d3a04-debb-4115-95cf-2f29da2920da|Saved Searches
 7e636bfe-dfa9-4d5e-b456-d7b39851d8a9|Templates
+35b6525e-071a-4ea9-b3bd-f6a742572f08|Baidu
 82a5ea35-d9cd-47c5-9629-e15d2f714e6e|Common Startup
 82a74aeb-aeb4-465c-a014-d097ee346d63|Control Panel
 859ead94-2e85-48ad-a71a-0969cb56a6cd|Sample Videos
