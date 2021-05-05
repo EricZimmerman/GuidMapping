@@ -44,6 +44,7 @@ e31ea727-12ed-4702-820c-4b6445f28e1b|Dropbox Business
 f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a|Videos
 0db7e03f-fc29-4dc6-9020-ff41b59e513a|3D Objects
 9b57f475-ccb0-4c85-88a9-2aa9a6c0809a|Amazon Drive
+2f8b40c2-83ed-48ee-b383-a1f157ec6f9a|Recorded Calls
 3dfdf296-dbec-4fb4-81d1-6a3438bcf4de|Music
 21034bdc-b57e-400b-a5d5-2b1e98502805|IBM Connections Desktop
 0579e89f-e364-4a3d-a9cb-90262b2b7e1c|Norton Backup
