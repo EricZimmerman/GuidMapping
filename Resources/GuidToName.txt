@@ -361,6 +361,7 @@ a3918781-e5f2-4890-b3d9-a7e54332328c|Application Shortcuts
 1e87508d-89c2-42f0-8a7e-645a0f50ca58|Applications
 a305ce99-f527-492b-8b1a-7e76fa98d6e4|Installed updates
 ab5fb87b-7ce2-4f83-915d-550846c9537b|Camera Roll
+d6eb3938-8cbe-4cc5-8cfa-c89750619193|Tresorit Drive
 00bcfc5a-ed94-4e48-96a1-3f6217f21990|RoamingTiles
 0139d44e-6afe-49f2-8690-3dafcae6ffb8|Common Programs
 0482af6c-08f1-4c34-8c90-e17ec98b1e17|Public Account Pictures
