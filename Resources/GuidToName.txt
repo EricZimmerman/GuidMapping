@@ -355,6 +355,7 @@ fe1290f0-cfbd-11cf-a330-00aa00c16e65|Directory
 ff393560-c2a7-11cf-bff4-444553540000|History
 008ca0b1-55b4-4c56-b8a8-4de4b299d3be|Account Pictures
 de61d971-5ebc-4f02-a3a9-6c82895e5c04|Add new programs
+40d6434c-de6a-4c61-b016-96df78b20e7e|Web sites
 724ef170-a42d-4fef-9f26-b60e846fba4f|Administrative tools
 a3918781-e5f2-4890-b3d9-a7e54332328c|Application Shortcuts
 1e87508d-89c2-42f0-8a7e-645a0f50ca58|Applications
