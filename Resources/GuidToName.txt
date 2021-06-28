@@ -375,9 +375,12 @@ d6eb3938-8cbe-4cc5-8cfa-c89750619193|Tresorit Drive
 5b3749ad-b49f-49c1-83eb-15370fbd4882|Tree Properties
 1777f761-68ad-4d8a-87bd-30b759fa33dd|Favorites
 18989b1d-99b5-455b-841c-ab7c74e4ddfc|Videos
+47d3ca42-2728-48d2-9875-4f46ef602aa9|BT Cloud
 190337d1-b8ca-4121-a639-6d472d16972a|Search Home
+c55c499d-3518-44a1-998e-796ac5fc989d|Network Magic
 1a6fdba2-f42d-4358-a798-b74d745926c5|Recorded TV
 1ac14e77-02e7-4e5d-b744-2eb1ae5198b7|System32
+2ae4edb2-9a0b-4bee-942b-8f69e4d13798|Naver Cloud
 1b3ea5dc-b587-4786-b4ef-bd1dc332aeae|Libraries
 2112ab0a-c86a-4ffe-a368-0de96e47012e|Music
 2400183a-6185-49fb-a2d8-4a392a602ba3|Public Videos
