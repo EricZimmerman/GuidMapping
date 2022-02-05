@@ -9,7 +9,10 @@ adfa80e7-9769-4ad9-992c-55dc57e1008c|StartMenuAllPrograms
 2e2e0587-4ca0-459a-8b4b-f44a4c863ca9|OpenText Enterprise Connect
 ecdb0924-4208-451e-8ee0-373c0956de16|Work Folders
 b816a83a-5022-11dc-9153-0090f5284f85|Swish SFTP
+a800c3ba-e9af-4f94-8842-22b09bb54cd1|Syncplicity
+ad1405d2-30cf-4877-8468-1ee1c52c759f|UWP Apps
 9e0f0c0a-454b-11e8-8685-9cb6d007204c|Box
+dede6ed1-7013-4991-b269-775ec466900f|Mac Files
 7ad67899-66af-43ba-9156-6aad42e6c596|AllAppMods
 f673ed46-ca8a-4fb4-9ba7-6907033851e2|MegaSync
 0ece4426-2d77-4760-b532-2a51cd19c8cf|nCryptedCloud
