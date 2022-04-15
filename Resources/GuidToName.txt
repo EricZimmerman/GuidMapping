@@ -14,6 +14,8 @@ ad1405d2-30cf-4877-8468-1ee1c52c759f|UWP Apps
 db539e14-97b2-4ead-ad35-1e93429571d6|LAN DISK
 9e0f0c0a-454b-11e8-8685-9cb6d007204c|Box
 dede6ed1-7013-4991-b269-775ec466900f|Mac Files
+67486eaa-ed7f-4f84-82eb-26f23f57d690|Baidu Network Disk/Xunlei Download
+f874310e-b6b7-47dc-bc84-b9e6b38f5903|Win11 21H2
 7ad67899-66af-43ba-9156-6aad42e6c596|AllAppMods
 f673ed46-ca8a-4fb4-9ba7-6907033851e2|MegaSync
 0ece4426-2d77-4760-b532-2a51cd19c8cf|nCryptedCloud
