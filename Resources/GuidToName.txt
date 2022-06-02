@@ -68,8 +68,8 @@ c539a15b-3af9-4c92-b771-50cb78f5c751|Acronis True Image
 a7b36ff9-3bb0-426b-a737-a997b80466d5|Autodesk 360
 49bf5420-fa7f-11cf-8011-00a0c90a8f78|Mobile Device
 2c7ddecf-7a8e-48a5-a744-8f45d20fb1a9|DAEMON Tools Pro
-0e270daa-1be6-48f2-ac49-47aab86814b7|Adobe Creative Cloud
-0e270daa-1be6-48f2-ac49-82e6fa45ecce|Adobe Creative Cloud
+0e270daa-1be6-48f2-ac49-47aab86814b7|Creative Cloud Files
+0e270daa-1be6-48f2-ac49-82e6fa45ecce|Creative Cloud Files
 0e270daa-1be6-48f2-ac49-85d42618e501|Creative Cloud Files
 0e270daa-1be6-48f2-ac49-1f82aad6ab64|Creative Cloud Files
 0e270daa-1be6-48f2-ac49-d6d1089256bd|Creative Cloud Files
@@ -425,6 +425,9 @@ c55c499d-3518-44a1-998e-796ac5fc989d|Network Magic
 767e6811-49cb-4273-87c2-20f355e1085b|Camera Roll
 76fc4e2d-d6ad-4519-a663-37bd56068185|Printers
 7b0db17d-9cd2-4a93-9733-46cc89022e7c|Documents
+d045fe63-1aa5-4f55-b91e-ae76567f8e46|AnyShare
+18701c81-34ab-498e-8c7f-5d26b9c36732|SyncSpace/NetWork
+ca7d49c4-9ee1-4dc3-a7e1-c2cf9a59237b|Viewfinity
 7b396e54-9ec5-4300-be0a-2482ebae1a26|Gadgets and Sidebar defaults
 7c5a40ef-a0fb-4bfc-874a-c0f2e0b9fa8e|Program Files x86
 7d1d3a04-debb-4115-95cf-2f29da2920da|Saved Searches
