@@ -3,7 +3,7 @@ d3162b92-9365-467a-956b-92703aca08af|Documents
 4564b25e-30cd-4787-82ba-39e73a750b14|Recent Items Instance Folder
 5b934b42-522b-4c34-bbfe-37a3ef7b9c90|This Device Folder
 adfa80e7-9769-4ad9-992c-55dc57e1008c|StartMenuAllPrograms
-679f85cb-0220-4080-b29b-5540cc05aab6|Home Folder
+679f85cb-0220-4080-b29b-5540cc05aab6|Quick Access
 36aab89d-9ff5-4128-9bae-b9867a245192|Storm video
 85bbd920-42a0-1069-a2e4-08002b30309d|Briefcase
 2e2e0587-4ca0-459a-8b4b-f44a4c863ca9|OpenText Enterprise Connect
@@ -770,7 +770,7 @@ C81D239D-863A-D4B4-3562-BC8D3D7C271E|Windows SDK Desktop Headers x64
 C88797F9-0AD8-E022-5BBB-596BC78D4C76|Windows SDK Desktop Headers arm64
 C8891AD2-C223-45CD-A9BE-617A68923B61|IntelliTraceProfilerProxy
 ca67548a-5ebe-413a-b50c-4b9ceb6d66c6|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
-cc2553fe-0c12-40bb-8d08-969eacd8c686|Intel® Software Installer
+cc2553fe-0c12-40bb-8d08-969eacd8c686|IntelÂ® Software Installer
 CCFBC305-8495-4A7D-B20F-BB0439A12AFB|vs_filehandler_amd64
 CE7E4A6A-45A2-2968-4B34-D0D4CFCC0E1D|Windows Team Extension SDK
 D3B54AAA-2B64-5DE2-EA64-9900152E5282|Windows Desktop Extension SDK
@@ -1166,7 +1166,7 @@ FF7D4409-CF59-34AE-BDC7-8A6146A9BA36|Windows SDK for Windows Store Managed Apps 
 {C13D21F1-E9A3-FB93-18C4-B905FB47F122|Windows SDK for Windows Store Apps Contracts
 {C33E412F-4981-4953-825C-9DEA45ABEC01|Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)
 {C49E3AC8-BDDF-428A-B7B1-7D1481BFDE6B|Visual C++ Library CRT Desktop Appx Package
-{C5C91AA6-3E83-430E-8B7A-6B790083F28D|Microsoft Azure Libraries for .NET – v2.9
+{C5C91AA6-3E83-430E-8B7A-6B790083F28D|Microsoft Azure Libraries for .NET Â– v2.9
 {C6800CC9-0F8F-4447-BAE9-99F8D88336F7|Microsoft .NET Core AppHost Pack - 3.1.18 (x64_arm)
 {c6c5a357-c7ca-4a5f-9789-3bb1af579253|Launcher Prerequisites (x64)
 {C7E8A4F2-EF09-42A8-B892-69D5ED99D965|VS JIT Debugger
