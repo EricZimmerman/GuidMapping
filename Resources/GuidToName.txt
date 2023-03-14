@@ -1,4 +1,3 @@
-﻿"GUID"|"Description"
 "77142e1c-50fe-42cc-8a75-00c27af955c0"|"Microsoft-SQLServerDataToolsVS"
 "12b6d916-fd64-471c-8ef7-c04443a75f8d"|"Microsoft .NET Host - 5.0.7 (x64)"
 "741fc222-44ed-4ba7-98e3-f405b2d2c4b4"|"Microsoft-Windows-DateTimeControlPanel"
