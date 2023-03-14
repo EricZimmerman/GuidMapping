@@ -42,7 +42,7 @@ b447b4e1-7780-11e0-ada3-18a90531a85a|Microsoft-Windows-FileHistory-UI
 db6f6ddb-ac77-4e88-8253-819df9bbf140|Microsoft-Windows-Direct3D11
 cfaa5446-c6c4-4f5c-866f-31c9b55b962d|Microsoft-Windows-DCLocator
 0d759f0f-cff9-4902-8867-eb9e29d7a98b|Microsoft-Windows-WMP-Setup_WM
-9a096bb5-9dc3-4d1c-8526-c3cbf991ea4e|IE RSS Feeds Folder
+9a096bb5-9dc3-4d1c-8526-c3cbf991ea4e|Internet Explorer RSS Feeds Folder
 0d7a8cbc-5c51-4e50-96e9-f4191a6acbb5|Macrium Reflect Home Edition
 1f43a58c-ea28-43e6-9ec4-34574a16ebb7|Windows Desktop Search MAPI Namespace Extension Class
 050d4fc8-5d48-4b8f-8972-47c82c46020f|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
@@ -52,7 +52,7 @@ cfaa5446-c6c4-4f5c-866f-31c9b55b962d|Microsoft-Windows-DCLocator
 59bd6dd1-5cec-4d7e-9ad2-ecc64154418d|UsersLibraries.SearchResults
 3239eb6f-c7fc-4953-aa15-646829a4ca4c|Microsoft-Windows-DisplayColorCalibration
 57d0e8cf-2552-4b76-a5c4-b1e9d413fd14|QSync (QNAP)
-e053a11a-dced-4515-8c4e-d51ba917517b|UserFiles.SearchResults
+e053a11a-dced-4515-8c4e-d51ba917517b|User Files Search Results
 ff9e2bdd-0e24-437c-84be-7cfcae635808|UMPass Driver Trace
 7d44233d-3055-4b9c-ba64-0d47ca40a232|Microsoft-Windows-WinHttp
 23b200e6-5e51-403d-a3f5-62cd42b23d7d|Microsoft .NET Core AppHost Pack - 3.1.22 (x64)
@@ -64,10 +64,10 @@ fcbb06bb-6a2a-46e3-abaa-246cb4e508b2|Microsoft-Windows-DeviceSetupManager
 86adbbae-77ae-fa26-7c17-802ae28ac316|Windows SDK Desktop Headers x86
 bbbc81cf-e219-469c-a405-f820ee496194|Microsoft-Windows-P2P-PNRP
 992cffa0-f557-101a-88ec-00dd010ccc48|Network Connections
-ea25fbd7-3bf7-409e-b97f-3352240903f4|Videos.SearchResults
+ea25fbd7-3bf7-409e-b97f-3352240903f4|Videos Search Results
 91475fe5-586b-4eba-8d75-d17434b8cdf6|Communications
 2e2e0587-4ca0-459a-8b4b-f44a4c863ca9|OpenText Enterprise Connect
-5cd7aee2-2219-4a67-b85d-6c9ce15660cb|UserProgramFiles
+5cd7aee2-2219-4a67-b85d-6c9ce15660cb|Programs
 d0e84378-4dec-41da-82b7-fd86cc14fc3c|Microsoft-Windows-WiFiConfigSP
 e91aa8e3-5a18-45fc-b6f1-528df0eaf781|Microsoft .NET AppHost Pack - 5.0.7 (x64_arm)
 6a502821-ab44-40c8-b32f-37315d9d52e0|Microsoft-Windows-Network-and-Sharing-Center
@@ -88,24 +88,24 @@ d1d93ef7-e1f2-4f45-9943-03d245fe6c00|Microsoft-Windows-Kernel-Memory
 35876b82-749f-4025-80db-bc14be7ae5c8|vs_clickoncebootstrappermsi
 24cf815e-d17c-3bc0-82ee-5fddfda8cfb0|Microsoft ASP.NET Core 3.1.18 Shared Framework (x86)
 46098845-8a94-442d-9095-366a6bcfefa9|Microsoft-Windows-WLGPA
-7b0db17d-9cd2-4a93-9733-46cc89022e7c|DocumentsLibrary
+7b0db17d-9cd2-4a93-9733-46cc89022e7c|Documents
 dca074ce-547c-4595-ae90-56229b8e3bd9|Microsoft-Windows-MCCS-SyncUtil
 e3257c8c-c7cb-444f-9da0-5d92a2625289|Microsoft-Windows-Defrag-Core
 bc476f4c-d9d7-4100-8d4e-e043f6dec409|Microsoft Browser Architecture
 5e23b838-5b71-47e6-b123-6fe02ef573ef|Microsoft-Windows-OfflineFiles-CscUM
 0e270daa-1be6-48f2-ac49-82e6fa45ecce|Creative Cloud Files
 d2a60d61-0f87-4673-a86c-9c461457fe27|Windows NetworkItemFactory Trace
-905e63b6-c1bf-494e-b29c-65b732d3d21a|ProgramFiles
+905e63b6-c1bf-494e-b29c-65b732d3d21a|Program Files
 abce23e7-de45-4366-8631-84fa6c525952|Microsoft-Windows-WER-SystemErrorReporting
 c44219d0-f344-11df-a5e2-b307dfd72085|Microsoft-Windows-DirectComposition
 e18d0fca-9515-4232-98e4-89e456d8551b|Microsoft-Windows-DVD
 6addabf4-8c54-4eab-bf4f-fbef61b62eb0|Microsoft-Windows-AIT
-190337d1-b8ca-4121-a639-6d472d16972a|SearchHomeFolder
+190337d1-b8ca-4121-a639-6d472d16972a|Search Home
 6c2a2599-3bc4-4c51-8f56-5ba64582e625|Microsoft .NET Runtime - 5.0.9 (x86)
 12dc38e3-e395-4c8e-9156-b5642057f5fa|Microsoft-Windows-PrintDialogs3D
 941744c9-b658-463e-b7ac-2a835f2e9be3|Microsoft .NET Core AppHost Pack - 3.1.18 (x64_x86)
 70e2503b-c6f3-4780-b323-bd8ed0c61bf8|Multi-Input
-6ef8b050-8a6a-4d79-8344-9dfb5cf391fb|RestrictedNonIndexed
+6ef8b050-8a6a-4d79-8344-9dfb5cf391fb|Restricted Non Indexed
 0b9fdccc-451c-449c-9bd8-6756fcc6091a|Microsoft-Windows-Hyper-V-Guest-Drivers-Storage-Filter
 c26c4f3c-3f66-4e99-8f8a-39405cfed220|Microsoft-Windows-WHEA-Logger
 c8d49b04-3234-42ae-98f0-f13f336a2f85|Microsoft-Windows-Narrator-Inproc
@@ -147,12 +147,12 @@ e8aa5402-26a1-455e-a21b-f240ed62d155|Microsoft-Windows-WCNWiz
 87b93a44-1f73-ec83-7261-2dfc972d9b1e|MSDATL3.1
 e23b33b0-c8c9-472c-a5f9-f2bdfea0f156|Microsoft-Windows-Security-SPP
 2b240425-3141-43ee-931f-ec9f997c7d7e|RSS Platform Perf Trace
-8faf9629-1980-46ff-8023-9dceab9c3ee3|OpenSearch
+8faf9629-1980-46ff-8023-9dceab9c3ee3|Open Search
 90160000-007e-0000-1000-0000000ff1ce|Office 16 Click-to-Run Licensing Component
 ead4e66c-102f-4ed0-85b5-a1c9037a6e8b|Brother Printer Driver
 d6044399-0b9e-4084-a9ac-c4b7c7800fcf|ASUS WebStorage
 ae5cf422-786a-476a-ac96-753b05877c99|Microsoft-Windows-MSMPEG2VDEC
-7d49d726-3c21-4f05-99aa-fdc2c9474656|Documents
+7d49d726-3c21-4f05-99aa-fdc2c9474656|Documents folder
 43668bf8-c14e-49b2-97c9-747784d784b7|SyncCenterFolder
 ce8dee0b-d539-4000-b0f8-77bed049c590|Microsoft-Windows-UserModePowerService
 c883fea0-0193-4c6b-baf3-da9fa7b6510e|Microsoft .NET Core AppHost Pack - 3.1.22 (x64_arm64)
@@ -190,7 +190,7 @@ bc0a73a6-043e-432f-bded-3d18c2dbe320|NetCoInstaller Tracing
 de513a55-c345-438b-9a74-e18cac5c5cc5|Microsoft-Windows-Help
 85be49ea-38f1-4547-a604-80060202fb27|Microsoft-Windows-PerceptionSensorDataService
 2112ab0a-c86a-4ffe-a368-0de96e47012e|MusicLibrary
-daf95313-e44d-46af-be1b-cbacea2c3065|CLSID_StartMenuProviderFolder
+daf95313-e44d-46af-be1b-cbacea2c3065|Start Menu Provider Folder
 443cc282-88b4-4612-a63f-a164279f0f24|Microsoft .NET AppHost Pack - 6.0.1 (x64_x86)
 1784a8cd-f7fe-47e2-a87d-1f31e7242d0d|Microsoft .NET Framework 4.7.2 Targeting Pack
 9d1f952a-9de6-4de2-93ec-34bd9b612f4e|Remote Desktop
@@ -228,7 +228,7 @@ c3505345-f775-48a3-9657-f9f0b4c1932f|Microsoft Windows Desktop Runtime - 6.0.0 (
 b689b0d0-76d3-4cbb-87f7-585d0e0ce070|Games folder
 f2e2ce31-0e8a-4e46-a03b-2e0fe97e93c2|Microsoft-Windows-Hyper-V-Guest-Drivers-Vmbus
 352481e8-33be-4251-ba85-6007caedcf9d|Cache
-c57a6066-66a3-4d91-9eb9-41532179f0a5|AppSuggestedLocations
+c57a6066-66a3-4d91-9eb9-41532179f0a5|Application Suggested Locations
 d60acc81-2608-4617-bfb7-2452bf002430|Microsoft-Windows-WAS-ListenerAdapter
 238f56b7-7d14-f8eb-3f4d-8cff18c19e2b|Windows SDK Desktop Libs x86
 7ae6de87-c956-4b40-9c89-3d166c9841d3|WPS Pro
@@ -290,7 +290,7 @@ ca4e628d-8567-4896-ab6b-835b221f373f|Microsoft-Windows-Search
 a9c11050-9e93-4fa4-8fe0-7c4750a345b2|Microsoft-Windows-CoreSystem-SmsRouter
 d5f7235b-48e2-4e9c-92fe-0e4950aba9e8|Microsoft-Windows-WEPHOSTSVC
 aaf67066-0bf8-469f-ab76-27microsoft-windows-powershell-desiredstateconfiguration-filedownloadmanager5590c434ee|
-de4f0660-fa10-4b8f-a494-068b20b22307|ControlPanelCategory
+de4f0660-fa10-4b8f-a494-068b20b22307|Control Panel Category
 1babefb4-59cb-49e5-9698-fd38ac830a91|msiscsi_iScsi
 d65c0754-7790-427f-ad73-d7c644260f57|ScannerUtilityInstaller
 59e7a714-73a4-4147-b47e-0957048c75c4|Microsoft-Windows-XAML-Diagnostics
@@ -332,7 +332,7 @@ a319d300-015c-48be-acdb-47746e154751|Microsoft-Windows-FileInfoMinifilter
 94d6ddcc-4a68-4175-a374-bd584a510b78|Music
 34802b7d-1869-4e4a-b72b-49b3621f23c0|Microsoft-Windows-Connected-Search
 e71503f8-38f0-4e81-a570-d802fffb873c|Intel(R) Management Engine Components
-3dfdf296-dbec-4fb4-81d1-6a3438bcf4de|CLSID_ThisPCLocalMusicRegFolder
+3dfdf296-dbec-4fb4-81d1-6a3438bcf4de|Music
 728b8c72-0f0f-4071-9bcc-27cb3b6dacbe|Microsoft-Windows-DXP
 7e8ad27f-b271-4ea2-a783-a47bde29143b|Microsoft-Windows-IIS-Logging
 5f56bf12-0818-b58a-5862-939784e12f8b|Windows SDK EULA
@@ -367,7 +367,7 @@ c861d0e2-a2c1-4d36-9f9c-970bab943a12|Thread Pool
 d17fff2f-392d-478c-a41d-737a216eb2a4|Microsoft-Windows-IE-F12-Provider
 85bbd920-42a0-1069-a2e4-08002b30309d|Briefcase
 485e7dea-0a80-11d8-ad15-505054503030|UMDF - Driver Manager Trace
-80213e82-bcfd-4c4f-8817-bb27601267a9|CompressedFolder
+80213e82-bcfd-4c4f-8817-bb27601267a9|Compressed Folder (zip folder)
 41ac2282-f083-4495-8306-2d6abc7d5ca2|Microsoft Azure Storage Emulator - v5.10
 e1dd7e52-621d-44e3-a1ad-0370c2b25946|Microsoft-Windows-Diagnosis-Scripted
 ea4cc8b8-a150-47a3-afb9-c8d194b19452|Microsoft-Windows-ACL-UI
@@ -379,7 +379,7 @@ d02a9c27-79b8-40d6-9b97-cf3f8b7b5d60|Microsoft-Windows-AppIDServiceTrigger
 b20e65ac-c905-4014-8f78-1b6a508142eb|Microsoft-Windows-MediaFoundation-Performance-Core
 e31ea727-12ed-4702-820c-4b6445f28e1a|Dropbox
 dbc388bc-89c2-4fe0-b71f-6e4881fb575c|Microsoft-Windows-IME-JPLMP
-3f98a740-839c-4af7-8c36-5badfb33d5fd|Documents.LibraryFolder
+3f98a740-839c-4af7-8c36-5badfb33d5fd|Documents library
 dd5ef90a-6398-47a4-ad34-4dcecdef795f|Microsoft-Windows-HttpService
 de974d24-d9c6-4d3e-bf91-f4455120b917|ProgramFilesCommonX86
 a990ae9f-a03b-4e80-94bc-9912d7504104|PicturesLibrary
@@ -399,7 +399,7 @@ c4aa340d-f20f-4863-afef-f87ef2e6ba25|Common Desktop
 b98a2bea-7d42-4558-8bd1-832f41bac6fd|Windows 7 File Recovery
 5fa947b5-650a-4374-8a9a-5efa4f126834|OpenDrive
 5f9f0bac-13c3-4e0d-9a6f-678274d8ad3a|Modern CSV
-36011842-dccc-40fe-aa3d-6177ea401788|Documents.SearchResults
+36011842-dccc-40fe-aa3d-6177ea401788|Documents Search Results
 8e7a81ef-0b97-4cd2-94e5-cd9e5a2767f4|Intel(R) Chipset Device Software
 a304259d-52b8-4526-8b1a-a1d6cecc8243|iSCSI Initiator
 72d211e1-4c54-4a93-9520-4901681b2271|Microsoft-Windows-PerfProc
@@ -437,7 +437,7 @@ e9c3da11-e2a5-48fd-9cd3-17e7c764d303|Multi-Worker
 0139d44e-6afe-49f2-8690-3dafcae6ffb8|Common Programs
 b059b83f-d946-4b13-87ca-4292839dc2f2|Microsoft-Windows-User-Loader
 b2fcd41f-9a40-4150-8c92-b224b7d8c8aa|Microsoft-Windows-SpellChecker
-654a1b99-8a4b-4e7b-a4e1-46378ad77a61|Contacts.LibraryFolder
+654a1b99-8a4b-4e7b-a4e1-46378ad77a61|Contacts LibraryFolder
 e25b5812-be88-4bd9-94b0-29233477b6c3|SavedPicturesLibrary
 07de7879-1c96-41ce-afbd-c659a0e8e643|Microsoft-Windows-VolumeControl
 f5528ada-be5f-4f14-8aef-a95de7281161|Microsoft-Windows-Kernel-Licensing-StartServiceTrigger
@@ -467,7 +467,7 @@ edc978d6-4d53-4b2f-a265-5805674be568|StreamBackedFolder
 ca1cf55c-9e49-4ad3-8038-39cb6f66af11|RSS Platform Backgroundsync Perf Trace
 9690a938-6152-4a7a-adeb-e5d7ab60409d|Microsoft-Windows-FileManagerApp
 e7497bdb-caa8-3827-a76f-2f6d24d35c1b|Microsoft ASP.NET Core 5.0.13 Shared Framework (x86)
-4dcafe13-e6a7-4c28-be02-ca8c2126280d|Pictures.SearchResults
+4dcafe13-e6a7-4c28-be02-ca8c2126280d|Pictures Search Results
 ce912a42-1d6a-4f54-a263-f54e7d3f8e09|vs_communitymsi
 a70ff94f-570b-4979-ba5c-e59c9feab61b|Microsoft-Windows-WinINet-Capture
 74a75b02-36d8-ede6-d10e-95b691503408|RowsetHelper.1
@@ -509,11 +509,11 @@ cab2b8a5-49b9-4eec-b1b0-fac21da05a3b|Microsoft-Windows-PerfNet
 192ede41-9175-4c86-ac02-9d003c9d43ab|Microsoft-Windows-DisplaySwitch
 1f84007d-19ce-4b15-9e81-8a3dd8eb9ecb|Microsoft-Windows-Shell-ZipFolder
 fbef8096-2ca3-4082-acde-dcfb47e96b72|Microsoft-Windows-FirstUX-PerfInstrumentation
-05d7b0f4-2121-4eff-bf6b-ed3f69b894d9|Taskbar
+05d7b0f4-2121-4eff-bf6b-ed3f69b894d9|Taskbar (NotificationAreaIcons)
 23b8d46b-67dd-40a3-b636-d43e50552c6d|Microsoft-Windows-User Device Registration
 aee2420f-d50e-405c-8784-363c582bf45a|DevicePairingFolder Initialization
 a2f55524-8ebc-45fd-88e4-a1b39f169e08|Microsoft-Windows-BranchCacheMonitoring
-7fde1a1e-8b31-49a5-93b8-6be14cfa4943|Generic.SearchResults
+7fde1a1e-8b31-49a5-93b8-6be14cfa4943|Generic Search Results
 16f3dd56-1af5-4347-846d-7c10c4192619|Groove Explorer Icon Overlay 3 (GFS Folder)
 9fc66dd7-98c7-4b83-8293-46a18439b03b|Microsoft-Windows-CloudStorageWizard
 3ab1d96b-c73e-4c77-bed9-85591fc3bf14|Microsoft .NET Core AppHost Pack - 3.1.22 (x64_x86)
@@ -541,7 +541,7 @@ a1152843-5a52-4c99-b29c-622e86318d40|Camtasia 2021
 6a96deed-d0d8-6dd0-21bd-7d8f60714854|Windows SDK Desktop Headers x64
 e2816346-87f4-4f85-95c3-0c79409aa89d|Microsoft-Windows-VHDMP
 2c36c0aa-5812-4b87-bfd0-4cd0dfb19b39|Original Images
-1e87508d-89c2-42f0-8a7e-645a0f50ca58|AppsFolder
+1e87508d-89c2-42f0-8a7e-645a0f50ca58|Applications
 db539e14-97b2-4ead-ad35-1e93429571d6|LAN DISK
 c9bdb4eb-9287-4c8e-8378-6896f0d1c5ef|Microsoft-Windows-HomeGroup-ProviderService
 6b56745a-f6a4-c51c-933a-ad96c00683ea|Universal CRT Headers Libraries and Sources
@@ -559,8 +559,8 @@ b28aa736-876b-46da-b3a8-84c5e30ba492|Web sites
 7f2bd991-ae93-454a-b219-0bc23f02262a|Microsoft-Windows-MP4SDECD
 e18d0fc9-9515-4232-98e4-89e456d8551b|Microsoft-Windows-RTWorkQueue-Threading
 1fa9085f-25a2-489b-85d4-86326eedcd87|Manage Wireless Networks
-bcbd3057-ca5c-4622-b42d-bc56db0ae516|UserProgramFilesCommon
-e345f35f-9397-435c-8f95-4e922c26259e|CLSID_StartMenuPathCompleteProviderFolder
+bcbd3057-ca5c-4622-b42d-bc56db0ae516|Programs
+e345f35f-9397-435c-8f95-4e922c26259e|Start Menu Path Complete Provider Folder
 f878746a-c5f7-420a-a672-4dfef74adc3a|Entity Framework 6.2.0 Tools  for Visual Studio 2019
 2d318b91-e6e7-4c46-bd04-bfe6db412cf9|Microsoft-Windows-TZUtil
 83d6e83b-900b-48a3-9835-57656b6f6474|Microsoft-Windows-SettingSync
@@ -572,7 +572,7 @@ fca1eb7d-2f62-4659-aa5f-42c37ce5d3cb|Python 3.8.2 Tcl/Tk Support (64-bit)
 f0be35f8-237b-4814-86b5-ade51192e503|Microsoft-Windows-AppReadiness
 914ed502-b70d-4add-b758-95692854f8a3|Microsoft-Windows-QoS-Pacer
 7f912b92-21ad-496e-b97a-88622a72bc42|Microsoft-Windows-ComDlg32
-df7266ac-9274-4867-8d55-3bd661de872d|ChangeRemoveProgramsFolder
+df7266ac-9274-4867-8d55-3bd661de872d|Programs and Features
 4e77768c-3ef9-428c-be54-eb82bb9426ab|Microsoft .NET Host - 6.0.1 (x64)
 de630f26-ffd6-48d3-8f63-f768e5670966|Modern CSV
 45350d79-4497-42f1-bd1b-83587575b91a|WPD ClassInstaller Trace
@@ -606,7 +606,7 @@ b9d5b35d-bbb8-4625-9450-f71a5d414f4f|Microsoft-Windows-Runtime-Networking-Backgr
 04eccf8e-8490-4ad1-8ed5-0ae7750e69e6|Microsoft-Windows-MCCS-AccountsHost
 dbe9b383-7cf3-4331-91cc-a3cb16a3b538|Microsoft-Windows-Winlogon
 14371053-1813-471a-9510-1cf1d0a055a8|Microsoft-Windows-IME-JPSetting
-5fa96407-7e77-483c-ac93-691d05850de8|Videos
+5fa96407-7e77-483c-ac93-691d05850de8|Videos folder
 1723d66a-7a12-443e-88c7-05e1bfe79983|Previous Versions Delegate Folder
 199fe037-2b82-40a9-82ac-e1d46c792b99|LsaSrv
 74dcc47a-846e-4c98-9e2c-80043ed82b15|Microsoft-Windows-Speech-TTS
@@ -619,7 +619,7 @@ aae5006e-31c0-400d-a858-a8da2582289b|Microsoft .NET Core 3.1 Templates 5.0.400 (
 6a2af3e9-0bc7-46d7-b3a7-d6ac4ee99894|Microsoft .NET Targeting Pack - 6.0.1 (x64)
 dafc98af-37a2-4c59-aad7-07cb9d0ba85a|vs_clickoncebootstrappermsires
 7c5a40ef-a0fb-4bfc-874a-c0f2e0b9fa8e|ProgramFilesX86
-978e0ed7-92d6-4cec-9b59-3135b9c49ccf|Music.LibraryFolder
+978e0ed7-92d6-4cec-9b59-3135b9c49ccf|Music library
 289af617-1cc3-42a6-926c-e6a863f0e3ba|DLNA Media Servers Data Source
 d1bc9aff-2abf-4d71-9146-ecb2a986eb85|Microsoft-Windows-Windows Firewall With Advanced Security
 480217a9-f824-4bd4-bbe8-f371caaf9a0d|FD Core Trace
@@ -643,8 +643,8 @@ d8900e18-36cb-4548-966f-13f068d1f78e|Microsoft-Windows-Sensors
 8ed60a3a-8c12-49c5-a518-fdf451bc10fc|WMP Network Sharing API
 de2b70ec-9bf7-4a93-bd3d-243f7881d492|Contacts
 98e6cfcb-ee0a-41e0-a57b-622d4e1b30b1|Microsoft-Windows-Security-Kerberos
-f874310e-b6b7-47dc-bc84-b9e6b38f5903|CLSID_MSGraphHomeFolder
-64693913-1c21-4f30-a98f-4e52906d3b56|AppInstanceFolder
+f874310e-b6b7-47dc-bc84-b9e6b38f5903|Win11 21H2
+64693913-1c21-4f30-a98f-4e52906d3b56|App Instance Folder
 5d896912-022d-40aa-a3a8-4fa5515c76d7|Microsoft-Windows-TerminalServices-LocalSessionManager
 11a75546-3234-465e-bec8-2d301cb501ac|Microsoft-Windows-WindowsSystemAssessmentTool
 20c46239-d059-4214-a11e-7d6769cbe020|Microsoft-Windows-Remote-FileSystem-Log
@@ -671,7 +671,7 @@ e2c15fd7-8924-4c8c-8cfe-da0be539ce27|Microsoft-Windows-IME-Broker
 7d99f6a4-1bec-4c09-9703-3aaa8148347f|Microsoft-Windows-Dwm-Redir
 1a6fdba2-f42d-4358-a798-b74d745926c5|RecordedTVLibrary
 d386cc7a-620a-41c1-abf5-55018c6c699a|Intel-iaLPSS-GPIO
-982725ee-6f47-479e-b447-812bfa7d2e8f|SearchConnector
+982725ee-6f47-479e-b447-812bfa7d2e8f|Search Connector
 416651e4-9c3c-11d9-8bde-f66bad1e3f3a|Nokia phone browser
 93b4ff2e-42a9-431f-876c-3c70a84560fe|Microsoft-Windows-InstallUX
 38b2c744-ad08-4d5b-91a2-3fb6f739ff3e|Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.29.30133
@@ -754,7 +754,7 @@ e2e7934b-dce5-43c4-9576-7fe4f75e7480|Date and Time Control Panel
 fb19ee2c-0d22-4a2e-969e-dd41ae0ce1a9|Microsoft-Windows-UserDataAccess-UserDataService
 0016ce0e-728c-4fc9-98e5-d0b35b384597|SD Explorer
 625b53c3-ab48-4ec1-ba1f-a1ef4146fc19|Start Menu
-0482af6c-08f1-4c34-8c90-e17ec98b1e17|PublicAccountPictures
+0482af6c-08f1-4c34-8c90-e17ec98b1e17|Public Account Pictures
 26afdb68-5aba-49cb-9207-f4b7fcdbc980|Catch
 1fc63a92-2df3-446e-9005-003ca98426ab|Intel(R) LMS
 f0c3e5d1-1ade-321e-8167-68ef0de699a5|Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
@@ -791,7 +791,7 @@ c3511d74-0e47-4341-9f10-df76f6823e06|Microsoft-Windows-LocationService
 11cd958a-c507-4ef3-b3f2-5fd9dfbd2c78|Microsoft-Windows-Windows Defender
 718c25eb-084c-6341-1c3e-589da641c28f|Windows Mobile Extension SDK
 9b74b6a3-0dfd-4f11-9e78-5f7800f2e772|The user's username (%USERNAME%)
-24ad3ad4-a569-4530-98e1-ab02f9417aa8|CLSID_ThisPCLocalPicturesRegFolder
+24ad3ad4-a569-4530-98e1-ab02f9417aa8|Pictures
 72ec729a-49e8-4ccd-9637-6e19d7ab2992|icecap_collection_x64
 4025d192-273d-42ec-bdf8-940ec34eedca|Microsoft-Windows-MCCS-AccountAccessor
 3ff37a1c-a68d-4d6e-8c9b-f79e8b16c482|Microsoft-Windows-Ntfs
@@ -841,7 +841,7 @@ d2035edf-75cb-4ef1-95a7-410d9ee17170|DLNA Content Directory Data Source
 e7aa32fb-77d0-477f-987d-7e83df1b7ed0|Microsoft-Windows-Graphics-Printing
 b3a0c2c8-83bb-4ddf-9f8d-4b22d3c38ad7|Microsoft-Windows-Kernel-PnP-Rundown
 1e9a4978-78c2-441e-8858-75b5d1326bc5|Microsoft-Windows-NetworkProvider
-08a99e2f-6d6d-4b80-af5a-baf2bcbe4cb9|Provides IPortableDevicePropVariantCollection helper methods for portable devices applications and drivers
+08a99e2f-6d6d-4b80-af5a-baf2bcbe4cb9|Portable device property variant collection
 879c90f1-f656-4b45-ae49-87af5a6ba28c|Microsoft.NET.Sdk.Android.Manifest-6.0.100
 121d3da8-baf1-4dcb-929f-2d4c9a47f7ab|Microsoft-Windows-Base-Filtering-Engine-Connections
 76133d32-1325-48f3-929a-27ec7a323fba|vs_Graphics_Singletonx64
@@ -858,17 +858,17 @@ b62a26bb-90a0-82fb-2ddc-3157adf07833|Windows SDK Signing Tools
 374de290-123f-4565-9164-39c4925e467b|Downloads
 770ca594-b467-4811-b355-28f5e5706987|Microsoft-Windows-ApplicationResourceManagementSystem
 731f6baa-a986-45a4-8936-7c3aaaaa760b|Teams Machine-Wide Installer
-0c15d503-d017-47ce-9016-7b3f978721cc|Provides IPortableDeviceValues helper methods for portable devices applications and drivers
+0c15d503-d017-47ce-9016-7b3f978721cc|Portable Device Values
 50df9e12-a8c4-4939-b281-47e1325ba63e|Microsoft-Windows-DSC
 8a8b5246-6eb6-4339-8b59-b0085b9f4890|Mobility Center Performance Trace
-59031a47-3f72-44a7-89c5-5595fe6b30ee|UsersFiles
+59031a47-3f72-44a7-89c5-5595fe6b30ee|Shared Documents Folder (Users Files)
 29d13147-1c2e-48ec-9994-e29dfe496eb3|Microsoft-Windows-RasServer
 319122a9-1485-4e48-af35-7db2d93b8ad2|Microsoft-Windows-User-ControlPanel
 1205aabb-5863-4157-af8a-653b3bce02b9|vs_clickoncesigntoolmsi
 18abebc9-83ec-435f-8f15-6d1e9187c999|Microsoft-Windows-GWX-Ins
 ae50c081-ebd2-438a-8655-8a092e34987a|Recent
 f02a2795-066c-47ba-936f-1517ba462169|Office Work Folders
-524ddb2b-2a4f-43b8-b8fe-e91ef9d8ba69|Contacts.Library
+524ddb2b-2a4f-43b8-b8fe-e91ef9d8ba69|Contacts Library
 56c71c31-cfbd-4cdd-8559-505e042bbbe1|Microsoft-Windows-DeviceAssociationService
 5b934b42-522b-4c34-bbfe-37a3ef7b9c90|This Device Folder
 5cad485a-210f-4c16-80c5-f892de74e28d|Microsoft-Windows-OtpCredentialProviderEvt
@@ -900,7 +900,7 @@ d92ef8ac-99dd-4ab8-b91d-c6eba85f3755|Microsoft-Windows-ASN1
 a68ca8b7-004f-d7b6-a698-07e2de0f1f5d|Microsoft-Windows-Kernel-General
 e53c6823-7bb8-44bb-90dc-3f86090d48a6|Microsoft-Windows-Winsock-AFD
 8e3ae0ef-d067-700c-bdb4-10d5552155dc|WinAppDeploy
-3f2a72a7-99fa-4ddb-a5a8-c604edf61d6b|Music.Library
+3f2a72a7-99fa-4ddb-a5a8-c604edf61d6b|Music Library
 8a7639df-5a62-440a-a10f-27b2c9d555ab|Visual C++ Library CRT Appx Package
 a111f1c2-5923-47c0-9a68-d0bafb577901|Microsoft-Windows-Network-Setup
 91f42016-0b4e-4a4b-9bbb-825d06cbed35|Microsoft-Windows-MobilityCenter
@@ -916,7 +916,7 @@ f0db7ef8-b6f3-4005-9937-feb77b9e1b43|Microsoft-Windows-CertificateServicesClient
 73a33ab2-1966-4999-8add-868c41415269|Microsoft-Windows-IsolatedUserMode
 96ab095a-9519-4f5c-81ee-c510b0a45463|UMB Trace
 f029ac39-38f0-4a40-b7de-404d244004cb|Microsoft-Windows-Kernel-XDV
-f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a|CLSID_ThisPCLocalVideosRegFolder
+f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a|Videos
 48e7caab-b918-4e58-a94d-505519c795dc|Start Menu Folder
 3903d5b9-988d-4c31-9ccd-4022f96703f0|Microsoft-Windows-RemoteDesktopServices-RemoteFX-Synth3dvsc
 7a979262-40ce-46ff-aeee-7884ac3b6136|Add Hardware
@@ -986,14 +986,14 @@ bb311100-2d9f-4cd3-b2d6-f4ea3839c548|Microsoft-Windows-PlayToManager
 0f011389-4823-40d0-ab50-711628d820f5|Microsoft .NET Host FX Resolver - 5.0.13 (x64)
 d8559eb9-20c0-410e-beda-7ed416aecc2a|Windows Defender
 b9fe9cd0-8e60-4c5c-b9b5-4d91818c2503|Microsoft Windows Desktop Runtime - 5.0.9 (x86)
-ed50fc29-b964-48a9-afb3-15ebb9b97f36|printhood delegate folder
+ed50fc29-b964-48a9-afb3-15ebb9b97f36|PrintHood delegate folder
 8eee042b-6eaf-4171-ba6e-01319ed99da8|Python 3.8.2 pip Bootstrap (64-bit)
 e6b9a810-4581-4561-be3b-02ad592871b7|Microsoft .NET Core Host FX Resolver - 2.1.28 (x64)
 54164045-7c50-4905-963f-e5bc1eef0cca|Microsoft-Windows-CertificateServicesClient-CertEnroll
 1d75856d-36a7-4ecb-a3f5-b13152222d29|Microsoft-Windows-MSPaint
 b5a7f190-dda6-4420-b3ba-52453494e6cd|Groove GFS Stub Execution Hook
 98e0765d-8c42-44a3-a57b-760d7f93225a|Microsoft-Windows-AppHost
-f3ce0f7c-4901-4acc-8648-d5d44b04ef8f|UsersFilesFolder
+f3ce0f7c-4901-4acc-8648-d5d44b04ef8f|The user's full name
 9249d0d0-f034-402f-a29b-92fa8853d9f3|Microsoft-Windows-Security-ExchangeActiveSyncProvisioning
 084094ef-6ac9-480a-7cc1-04199047bbdd|Windows IoT Extension SDK
 1f678132-5938-4686-9fdc-c8ff68f15c85|Schannel
@@ -1004,7 +1004,7 @@ bdd4b92e-19ef-4497-9c4a-e10e7fd2e227|Microsoft-Windows-IME-TIP
 6d9969ff-612f-48ef-9b90-853fd82e6ec2|Sync
 1688ab1c-b9d4-4703-963a-d077cb5c7c74|Microsoft .NET Core 5.0 Templates 5.0.210 (x64)
 9e5f9046-43c6-4f62-ba13-7b19896253ff|Microsoft-Windows-EtwCollector
-17cd9488-1228-4b2f-88ce-4298e93e0966|Set User Defaults
+17cd9488-1228-4b2f-88ce-4298e93e0966|Default Programs
 7b563579-53c8-44e7-8236-0f87b9fe6594|Microsoft-Windows-Kernel-WHEA
 1fbbd022-f751-fe7b-54df-9fed23892b2f|Windows SDK for Windows Store Apps Libs
 a4115719-d62e-491d-aa7c-e74b8be3b067|Common Start Menu
@@ -1035,8 +1035,8 @@ d37687e7-8bf0-4d11-b589-a7abe080756a|Microsoft-Windows-SleepStudy
 863aa9fd-42df-457b-8e4d-0de1b8015c60|Remote Printers
 6d7662a9-034e-4b1f-a167-67819c401632|Microsoft-Windows-IdCtrls
 3080f90e-d7ad-11d9-bd98-0000947b0257|Window Switcher
-fe1290f0-cfbd-11cf-a330-00aa00c16e65|@C:\WINDOWS\system32\dsquery.dll,-553
-834d8a44-0974-4ed6-866e-f203d80b3810|SearchHome
+fe1290f0-cfbd-11cf-a330-00aa00c16e65|Directory
+834d8a44-0974-4ed6-866e-f203d80b3810|Search Home
 c291a080-b400-4e34-ae3f-3d2b9637d56c|UNCFAT IShellFolder Class
 04f9e236-053d-4cf0-9390-af70ad87aa49|Microsoft .NET AppHost Pack - 5.0.7 (x64_x86)
 9cc0413e-5717-4af5-82eb-6103d8707b45|Microsoft-Windows-EapMethods-RasTls
@@ -1057,7 +1057,7 @@ b337fd00-9dd5-4635-a6d4-da33fd102b7a|Other Users
 50f99b2d-96d2-421f-be4c-222c4140da9f|Microsoft-Windows-EDP-Audit-Regular
 88cd9180-4491-4640-b571-e3bee2527943|Microsoft-Windows-PushNotifications-Platform
 614696c9-85af-4e64-b389-d2c0db4ff87b|Microsoft-Windows-WMPNSS-PublicAPI
-a00ee528-ebd9-48b8-944a-8942113d46ac|CLSID_StartMenuCommandingProviderFolder
+a00ee528-ebd9-48b8-944a-8942113d46ac|Start Menu Commanding Provider Folder
 485e7dee-0a80-11d8-ad15-505054503030|UMDF - Reflector Trace
 031e4825-7b94-4dc3-b131-e946b44c8dd5|UsersLibraries
 25df2b02-c761-49c6-81d9-b29b7838a9ac|vs_communityx64msi
@@ -1096,7 +1096,7 @@ cfef48a8-bfb8-3eac-8ba5-de4f8aa267ce|Microsoft .NET Framework 4 Multi-Targeting 
 6c260f2c-049a-43d8-bf4d-d350a4e6611a|Microsoft-Windows-RasSstp
 82d60869-5ada-4d49-b76a-309b09666584|Microsoft-Windows-Hyper-V-Integration-KvpExchange
 e4ff10d8-8a88-4fc6-82c8-8c23e9462fe5|Downlevel IPsec NetShell Plugin
-a305ce99-f527-492b-8b1a-7e76fa98d6e4|AppUpdatesFolder
+a305ce99-f527-492b-8b1a-7e76fa98d6e4|Installed updates
 795e8f11-37de-611e-921e-7d70be09bf7b|Windows SDK Desktop Tools x64
 a67075c2-3e39-4109-b6cd-6d750058a731|Microsoft-Windows-NetworkBridge
 d6eb3938-8cbe-4cc5-8cfa-c89750619193|Tresorit Drive
@@ -1105,7 +1105,7 @@ aaf44901-5c64-4014-8b6c-a80813937293|Microsoft-Windows-OcSetup
 df700cfe-0603-47e1-a45d-3369ad751e7e|Microsoft .NET Core Runtime - 3.1.16 (x64)
 dfdf76a2-c82a-4d63-906a-5644ac457385|Public
 773ef543-570f-4746-953a-3cb19dfcb3e2|Microsoft .NET Host FX Resolver - 5.0.4 (x64)
-ef87b4cb-f2ce-4785-8658-4ca6c63e38c6|StartMenu
+ef87b4cb-f2ce-4785-8658-4ca6c63e38c6|Start Menu
 f178c11b-b6c5-4d71-b528-64381d2024fc|Box
 43f73608-5c94-436f-a1e6-e09ace680391|VS JIT Debugger
 87630419-6216-4ff8-a1f0-143562d16d5c|Mobile Broadband Profile Settings Editor
@@ -1131,13 +1131,13 @@ a4112d1a-6dfa-476e-bb75-e350d24934e1|Microsoft-Windows-MediaFoundation-MSVProc
 5b93cdfa-5f51-45e0-9fde-296983129e6c|LocationNotifications
 f8762a81-32b5-4144-9f3c-9274f515a651|UsbRepairTool
 9d55b53d-449b-4824-a637-24f9d69aa02f|Microsoft-Windows-Winsrv
-fbeb8a05-beee-4442-804e-409d6c4515e9|ShellFolder for CD Burning
+fbeb8a05-beee-4442-804e-409d6c4515e9|CDBurn
 0f67e49f-fe51-4e9f-b490-6f2948cc6027|Microsoft-Windows-Kernel-Processor-Power
 aa1f73e8-15fd-45d2-abfd-e7f64f78eb11|Microsoft-Windows-Kernel-PowerTrigger
 7aac93b0-f3d7-6b24-6b37-9e74980c1c81|MSI Development Tools
 cedd7be6-97b5-9ae8-57c0-b390e0c4328f|Windows SDK for Windows Store Managed Apps Libs
 0ac0837c-bbf8-452a-850d-79d08e667ca7|MyComputerFolder
-631958a6-ad0f-4035-a745-28ac066dc6ed|Videos.Library
+631958a6-ad0f-4035-a745-28ac066dc6ed|Videos Library
 9e6ae157-d9f7-47e5-8c6d-b17bb6c82a27|Microsoft-Windows-BdeTriggerProvider
 40419485-c444-4567-851a-2dd7bfa1684d|Phone and Modem Control Panel
 6ad52b32-d609-4be9-ae07-ce8dae937e39|Microsoft-Windows-RPC
@@ -1151,7 +1151,7 @@ ab29f35c-8531-42ff-810d-b8552d23bc92|Microsoft-Windows-IIS-FTP
 1d2680c9-0e2a-469d-b787-065558bc7d43|Fusion Cache
 a96670f0-da6a-41b0-8688-f8c6c44cbf52|Microsoft-Windows-FileManagerDataModel
 fd8a9511-bfc9-43b5-bb75-9cec0ea03cf0|ControlCenter4 CSDK
-a0c69a99-21c8-4671-8703-7934162fcf1d|Local Music
+a0c69a99-21c8-4671-8703-7934162fcf1d|Local music
 355c44fe-0c8e-4bf8-be28-8bc7b5a42720|Microsoft-Windows-WPD-CompositeClassDriver
 f34765f6-a1be-4b9d-1400-b8a12921f704|ODBC.1
 fc3b8229-3aac-42d0-88bd-e471146c6322|Snagit 2022
@@ -1247,7 +1247,7 @@ ed5b7615-5f90-4fdb-b66a-b8e45a27e99d|Visual C++ Library CRT Appx Resource Packag
 74827cbb-1e0f-45a2-8523-c605866d2f22|Microsoft-Windows-WindowsUIImmersive
 325a8055-811b-4906-ae26-9409cb74e7a9|Microsoft .NET Toolset 5.0.104 (x64)
 8eb85c0e-de7d-4a53-bd66-708b8f2c80b0|HHD Software Hex Editor Neo 6.54
-71689ac1-cc88-45d0-8a22-2943c3e7dfb3|Music.SearchResults
+71689ac1-cc88-45d0-8a22-2943c3e7dfb3|Music Search Results
 2e6c6299-bf5f-379d-55f2-8fd3367f5918|Windows SDK Desktop Tools arm64
 ecdaacfa-6fe9-477c-b5f0-85b76f8f50aa|Microsoft-Windows-Crashdump
 9485fa1e-23cd-49a1-84e3-11d8bc550cb7|Microsoft-Windows-propsys
@@ -1261,7 +1261,7 @@ cb070027-1534-4cf3-98ea-b9751f508376|Microsoft-Windows-LanGPA
 d5e09122-d0b2-4235-adc1-c89faaaf1069|Windows Firewall Driver
 67d781bd-cbd2-4bd2-ad1f-6152fb891246|Microsoft-Windows-BootUX
 0e85a5a5-4d5c-44b7-8bda-5b7ab54f7e91|IMAPI2 Disc Master
-f8278c54-a712-415b-b593-b77a2be0dda9|This Device Folder
+f8278c54-a712-415b-b593-b77a2be0dda9|This device
 62de9e48-90c6-4755-8813-6a7d655b0802|Microsoft-Windows-NdisImPlatformSysEvtProvider
 6a2dc7c1-930a-4fb5-bb44-80b30aebed6c|Microsoft-Windows-WMPNSS-Service
 5183e901-6cd7-4e0e-95cc-9874fefc3b0c|Microsoft .NET SDK 5.0.404 (x64)
@@ -1288,10 +1288,10 @@ ca67548a-5ebe-413a-b50c-4b9ceb6d66c6|Microsoft Visual C++ 2012 Redistributable (
 564f1e24-fc86-28e1-74f8-5ca0d950bee0|MSDAREM.1
 5a260d5a-95d3-4956-8e0a-e182cc4144ed|ClickOnce Bootstrapper Package for Microsoft .NET Framework
 dea07764-0790-44de-b9c4-49677b17174f|Microsoft-Windows-FMS
-48daf80b-e6cf-4f4e-b800-0e69d84ee384|PublicLibraries
+48daf80b-e6cf-4f4e-b800-0e69d84ee384|Libraries
 883d29e5-9a41-4c45-a192-c10b8078bf0c|vs_minshellinteropmsi
 86a57680-fec9-3c95-bf39-6c22eb5433ca|Microsoft Portable Library Multi-Targeting Pack Language Pack - enu
-5f4eab9a-6833-4f61-899d-31cf46979d49|Generic.Library
+5f4eab9a-6833-4f61-899d-31cf46979d49|Generic library
 178dadaf-7ac4-4593-ab3e-a45fda6d0d55|Microsoft-Windows-Diagnosis-AdvancedTaskManager
 835b79e2-e76a-44c4-9885-26ad122d3b4d|Microsoft-Windows-Narrator
 ad33fa19-f2d2-46d1-8f4c-e3c3087e45ad|FWPKCLNT Trace Provider
@@ -1366,13 +1366,13 @@ ee4f43b5-03eb-41d2-a28c-ba8bee529247|Microsoft-Windows-StickyNotes
 cc17fe4a-4844-4f8d-9a99-d91f94b83850|Microsoft .NET Core Toolset 3.1.416 (x64)
 dcfc4489-9ce0-403c-99df-a05422c60898|Microsoft-Windows-WPD-MTPUS
 3b193882-d3ad-4eab-965a-69829d1fb59f|SavedPictures
-22877a6d-37a1-461a-91b0-dbda5aaebc99|Recent Places Folder
+22877a6d-37a1-461a-91b0-dbda5aaebc99|Recent Places
 0e270daa-1be6-48f2-ac49-d6d1089256bd|Creative Cloud Files
 bf1db390-3e67-4d4d-a287-8958044a3db4|Microsoft-Windows-UI-Input-Inking
 c2f86198-03ca-4771-8d4c-ce6e15cbca56|Intel-iaLPSS2-I2C
 d9131565-e1dd-4c9e-a728-951999c2adb5|Network Profile Manager
 71da9320-08c2-4ec4-90ad-2db68e37ed90|Microsoft TestPlatform SDK Local Feed
-503a4e73-1734-441a-8eab-01b3f3861156|Communications.SearchResults
+503a4e73-1734-441a-8eab-01b3f3861156|Communications Search Results
 b447b4e0-7780-11e0-ada3-18a90531a85a|Microsoft-Windows-FileHistory-Service
 de095dbe-8667-4168-94c2-48ca61665aca|Microsoft-Windows-HotspotAuth
 24d89e24-2f19-4534-9dde-6a6671fbb8fe|OneDriveDocuments
@@ -1386,14 +1386,14 @@ c2fa0899-8a10-412b-a42e-9e5b284a2437|Microsoft-Windows-TabletPC-CoreInkRecogniti
 922cdcf3-6123-42da-a877-1a24f23e39c5|Microsoft-WindowsPhone-CoreMessaging
 62d8ed13-c9d0-4ce8-a914-47dd628fb1b0|Region and Language
 5bc2b5ab-80de-4e83-b8cf-426902051d0a|Realtek Card Reader
-b155bdf8-02f0-451e-9a26-ae317cfd7779|nethood delegate folder
+b155bdf8-02f0-451e-9a26-ae317cfd7779|Delegate folder that appears in Computer
 679f85cb-0220-4080-b29b-5540cc05aab6|Quick Access
 76dba919-5a36-fc80-2cad-3185532b7cb1|MSADCE.1
 6ece3302-fee1-4ea9-8b88-086d459ed976|Microsoft-Windows-Display
 485e7deb-0a80-11d8-ad15-505054503030|UMDF - Test Trace
 555908d1-a6d7-4695-8e1e-26931d2012f4|Service Control Manager
 5fcd4425-ca3a-48f4-a57c-b8a75c32acb1|Hewlett-Packard Recovery (Protect.dll)
-7d1d3a04-debb-4115-95cf-2f29da2920da|Searches
+7d1d3a04-debb-4115-95cf-2f29da2920da|Saved Searches
 4ba32972-6fc5-488a-8368-5da620d05127|Microsoft-Windows-Reliability-Analysis-Engine
 1036893d-9917-4e70-b96c-8d72a2b224bc|icecap_collection_neutral
 6545939f-3398-411a-88b7-6a8914b8cec7|Microsoft-Windows-ServiceTriggerPerfEventProvider
@@ -1406,7 +1406,7 @@ c5abbf53-e17f-4121-8900-86626fc2c973|NetHood
 fcfeecae-ee1b-4849-ae50-685dcf7717ec|Problem Reports and Solutions
 49c2c27c-fe2d-40bf-8c4e-c3fb518037e7|Microsoft-Windows-Search-Core
 a50b09f8-93eb-4396-84c9-dc921259f952|Microsoft-Windows-Diagnosis-MSDE
-d3162b92-9365-467a-956b-92703aca08af|CLSID_ThisPCLocalDocumentsRegFolder
+d3162b92-9365-467a-956b-92703aca08af|Documents
 0e85a5a5-4d5c-44b7-8bda-5b7ab54f7e90|IMAPI2 dll
 89203471-d554-47d4-bde4-7552ec219999|Microsoft-Windows-KdsSvc
 ce7e4a6a-45a2-2968-4b34-d0d4cfcc0e1d|Windows Team Extension SDK
@@ -1422,7 +1422,7 @@ e595f735-b42a-494b-afcd-b68666945cd3|Microsoft-Windows-Firewall
 059f0f37-910e-4ff0-a7ee-ae8d49dd319b|Microsoft-Windows-ReFS-v1
 5c1c9ab3-8689-4e41-90fa-85858306d7b7|Microsoft-Windows-Network-DataUsage
 d436a6e9-ec92-40c9-bf09-1ef1d0ed8bcb|Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.30.30708
-35286a68-3c57-41a1-bbb1-0eae73d76c95|Local Videos
+35286a68-3c57-41a1-bbb1-0eae73d76c95|Local videos
 a3c693a5-edba-4cbb-bce5-8594b2c10f10|Onetastic Addin
 dc2f8f18-31b5-42f1-a52a-04644329ce90|vs_devenx64vmsi
 530fb9b9-c515-4472-9313-fb346f9255e3|Microsoft-Windows-SetupPlatform
@@ -1465,8 +1465,8 @@ d4263c98-310c-4d97-ba39-b55354f08584|Microsoft-Windows-COM
 5d674230-ca9f-11da-a94d-0800200c9a66|Microsoft-Windows-BitLocker-API
 a36c1168-60e6-42e4-93db-6be8c6dd9dd6|Python 3.8.2 Executables (64-bit)
 e856c26a-e105-4683-a948-6920dcc42e45|Microsoft-Windows-DirectWrite-FontCache
-088e3905-0323-4b02-9826-5d99428e115f|CLSID_ThisPCLocalDownloadsRegFolder
-fbb3477e-c9e4-4b3b-a2ba-d3f5d3cd46f9|Documents.Library
+088e3905-0323-4b02-9826-5d99428e115f|Downloads
+fbb3477e-c9e4-4b3b-a2ba-d3f5d3cd46f9|Documents Library
 e6307a09-292c-497e-aad6-498f68e2b619|Microsoft-Windows-ReadyBoost
 e8a7c168-81ee-465c-8e8e-d39a2ac1ca41|Microsoft-Windows-Thermal-Polling
 0a7f5745-2284-3888-ab12-74a7e222ce54|Microsoft ASP.NET Diagnostic Pack for Visual Studio
@@ -1486,7 +1486,7 @@ bef2aa8e-81cd-11e2-a7bb-5eac6188709b|Microsoft-Windows-Kernel-LiveDump
 b675ec37-bdb6-4648-bc92-f3fdc74d3ca2|Microsoft-Windows-Kernel-EventTracing
 a79419cf-fa5c-332c-9ae7-26f6cea625ba|Microsoft ASP.NET Core 6.0.1 Shared Framework (x64)
 0e270daa-1be6-48f2-ac49-85d42618e501|Creative Cloud Files
-4336a54d-038b-4685-ab02-99bb52d3fb8b|Public folder
+4336a54d-038b-4685-ab02-99bb52d3fb8b|Samples
 929fbd26-9020-399b-9a7a-751d61f0b942|Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
 5b004607-1087-4f16-b10e-979685a8d131|Microsoft-Windows-DomainJoinManagerTriggerProvider
 d045fe63-1aa5-4f55-b91e-ae76567f8e46|AnyShare
@@ -1523,7 +1523,7 @@ d8965fcf-7397-4e0e-b750-21a4580bd880|Microsoft-Windows-UI-Search
 463b0974-b1e1-401e-8f59-b0f9f81258e4|Python Launcher
 11931fea-3259-402b-97df-0af5e5650eec|WPD WMDRM Trace
 1edeee53-0afe-4609-b846-d8c0b2075b1f|Microsoft-Windows-WMI
-b2952b16-0e07-4e5a-b993-58c52cb94cae|CLSID_DBFolder
+b2952b16-0e07-4e5a-b993-58c52cb94cae|DB Folder
 fe6ff6ed-93de-42e3-991d-346f0c1fc187|Microsoft .NET Runtime - 5.0.0 (x64)
 2f4c4f72-75b8-4f4c-9d97-4ce334ecd3e0|Microsoft-Windows-OOBE-Machine-Plugins
 154eeeb2-18d9-4fd5-ede1-6d0b318fac53|Windows Mobile Extension SDK Contracts
@@ -1602,7 +1602,7 @@ a3e1697b-a12c-46b9-84d1-7ffe73c4b678|Microsoft-Windows-PortableDeviceSyncProvide
 ac52ad17-cc01-4f85-8df5-4dce4333c99b|Microsoft-Windows-USB-USBHUB3
 28c9f48f-d244-45a8-842f-dc9fbc9b6e94|Windows Firewall NetShell Plugin
 96f4a050-7e31-453c-88be-9634f4e02139|Microsoft-Windows-UserPnp
-292108be-88ab-4f33-9a26-7748e62e37ad|Videos.LibraryFolder
+292108be-88ab-4f33-9a26-7748e62e37ad|Videos library
 3629dd4d-d6f1-4302-a623-0768b51501c7|Microsoft-Windows-CoreSystem-NetProvision-JoinProviderOnline
 6cd9e9ed-906d-4196-8dc3-f987d2f6615f|Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.29.30133
 04da1419-5002-4781-bd5d-829a8fb420e5|Microsoft Windows Desktop Runtime - 6.0.0 (x64)
@@ -1724,10 +1724,10 @@ efc44413-7df1-4c4b-90c6-4a2092af3e1a|vcpp_crt.redist.clickonce
 1b33f856-548c-4869-81b5-878c1ed2b382|Microsoft .NET SDK 6.0.101 (x64) from Visual Studio
 cfc18ec0-96b1-4eba-961b-622caee05b0a|Microsoft-Windows-Diagnostics-Performance
 7e58e69a-e361-4f06-b880-ad2f4b64c944|Microsoft-Windows-StorageManagement
-0c3794f3-b545-43aa-a329-c37430c58d2a|ControlPanelAllItems
+0c3794f3-b545-43aa-a329-c37430c58d2a|Control Panel All Items
 0e270daa-1be6-48f2-ac49-47aab86814b7|Creative Cloud Files
 bf782cc9-5a52-4a17-806c-2a894ffeeac5|Language Settings
-f42ee2d3-909f-4907-8871-4c22fc0bf756|Local Documents
+f42ee2d3-909f-4907-8871-4c22fc0bf756|Local documents
 59b0f512-bd54-46f7-a872-039788a3a5ad|Simatic Shell SIEMENS AG
 6cc2405d-817f-4886-886f-d5d1643210f0|Microsoft-Windows-NetAdapterCim-Diag
 8530db6e-51c0-43d6-9d02-a8c2088526cd|Microsoft-Windows-AssignedAccess
@@ -1782,7 +1782,7 @@ daa6caf5-6678-43f8-a6fe-b40ee096e00e|RDP4VSTrace
 7dd1f495-f1bf-6a30-620f-ac064dd302d8|Windows SDK Desktop Libs x86
 43e63da5-41d1-4fbf-aded-1bbed98fdd1d|Microsoft-Windows-Subsys-SMSS
 2d4c0c5e-6704-493a-a44b-f5add4fc9283|Microsoft-Windows-OOBE-FirstLogonAnim
-15eae92e-f17a-4431-9f28-805e482dafd4|Install New Programs
+15eae92e-f17a-4431-9f28-805e482dafd4|Install New Programs 
 e5fc4a0f-7198-492f-9b0f-88fdcbfded48|Microsoft-Windows Networking VPN Plugin Platform
 2d333977-52e1-4886-801f-2d59eb8060af|IrDA Protocol Driver
 c374d21e-69b2-4cd7-9a25-62187c5a5619|Microsoft-Windows-WPD-MTPIP
@@ -1884,13 +1884,13 @@ ec9807de-b577-47b1-a024-0251805acf24|Microsoft Visual C++ 2019 X86 Minimum Runti
 8f21d4cd-9cb4-2648-eecc-60147de7b32d|Windows SDK for Windows Store Apps DirectX x86 Remote
 2559a1f6-21d7-11d4-bdaf-00c04f60b9f0|OEM link
 85fe7609-ff4a-48e9-9d50-12918e43e1da|Microsoft-Windows-L2NACP
-b3690e58-e961-423b-b687-386ebfd83239|Pictures
+b3690e58-e961-423b-b687-386ebfd83239|Pictures folder
 31f60101-3703-48ea-8143-451f8de779d2|Microsoft-Windows-DesktopWindowManager-Diag
 38424975-f5f7-4d65-9c6a-26b128f68eda|icecap_collection_neutral
 f5dbaa02-15d6-4644-a784-7032d508bf64|Microsoft-Windows-OOBE-Machine-DUI
 21b7c16e-c5af-4a69-a74a-7245481c1b97|Microsoft-Windows-WPD-MTPClassDriver
 c5bffe2e-9d87-d568-a09e-08fc83d0c7c2|SQLOLEDB_1
-c1f8339f-f312-4c97-b1c6-ecdf5910c5c0|Pictures.LibraryFolder
+c1f8339f-f312-4c97-b1c6-ecdf5910c5c0|Pictures library
 c49e3ac8-bddf-428a-b7b1-7d1481bfde6b|Visual C++ Library CRT Desktop Appx Package
 9640427c-7d03-4331-b8ee-fb77625bf381|Microsoft-Windows-MSFTEDIT
 754ac886-df64-4cba-86b5-f7fbf4fbcef5|ThisPCDesktopFolder
@@ -1947,7 +1947,7 @@ f8c2ab3b-17bc-41da-9758-339d7dbf2d88|Previous Versions Results Folder
 9741fd4e-3757-479f-a3c6-fc49f6d5edd0|NetJoin
 4a8fcd9f-623c-4283-96f0-10f41846a98a|Box Sync
 92f31335-efd4-3f56-9554-f23e24a6f43e|Microsoft ASP.NET Core 3.1.18 Shared Framework (x64)
-db2a5d8f-06e6-4007-aba6-af877d526ea6|AccountPictures
+db2a5d8f-06e6-4007-aba6-af877d526ea6|Account Pictures
 72891ee8-c088-4331-9745-5bf4aa7b344d|WPD Composite Driver Trace
 9091b952-8719-49c3-9cc7-6e20ec61081f|ControlCenter4
 e6f877a1-2f65-4bf0-87b6-a4071b7663d3|Windows SDK AddOn
@@ -2034,7 +2034,7 @@ e0a40b26-30c4-4656-bc9a-74a5c3a0b2ec|Microsoft-Windows-UIAnimation
 dcbfb8f0-cd19-4f1c-a27d-23ac706ded72|Microsoft-Windows-LinkLayerDiscoveryProtocol
 442c11c5-304b-45a4-ae73-dc2194c4e876|Microsoft-Windows-Compat-Appraiser
 6af09ec9-b429-11d4-a1fb-0090960218cb|Broadcom Bluetooth
-384ea5ae-ade1-4e8a-8a9b-7bea78fff1e9|CLSID_BinaryAutoList
+384ea5ae-ade1-4e8a-8a9b-7bea78fff1e9|Search folder
 3f7b2f99-b863-4045-ad05-f6afb62e7af1|Microsoft-Windows-TerminalServices-MediaRedirection
 b4fc1e81-3264-49a2-80c7-24c296546d67|Microsoft Windows Desktop Runtime - 5.0.0 (x64)
 aabf8b86-7936-4fa2-acb0-63127f879dbf|Microsoft-Windows-Diagnosis-PCW
@@ -2089,11 +2089,11 @@ cba5f63c-e2cf-4b36-8305-bde1311924fc|Microsoft-Windows-Websocket-Protocol-Compon
 4cec9c95-a65f-4591-b5c4-30100e51d870|Microsoft-Windows-Kernel-Tm
 af9cc194-e9a8-42bd-b0d1-834e9cfab799|Microsoft-Windows-CertPolEng
 9b7e4c0f-342c-4106-a19f-4f2704f689f0|Microsoft-Windows-Direct3D10
-5c4f28b5-f869-4e84-8e60-f11db97c5cc7|Generic
+5c4f28b5-f869-4e84-8e60-f11db97c5cc7|Generic (All folder items)
 9b007174-d269-4f39-870e-8e1621b3d673|Intel(R) Serial IO
 25b99a4c-2f80-4fcd-982d-69cd1f77badf|Microsoft-Windows-MCCS-NetworkHelper
 e5ba83f6-07d0-46b1-8bc7-7e669a1d31dc|Microsoft-Windows-Security-Netlogon
-da3f6866-35fe-4229-821a-26553a67fc18|Generic.LibraryFolder
+da3f6866-35fe-4229-821a-26553a67fc18|General (Generic) library
 54ffd262-99fe-4576-96e7-1adb500370dc|Microsoft-Windows-Wordpad
 2f07e2ee-15db-40f1-90ef-9d7ba282188a|Microsoft-Windows-TCPIP
 951b41ea-c830-44dc-a671-e2c9958809b8|Microsoft-Windows-Kernel-Interrupt-Steering
@@ -2127,8 +2127,8 @@ d9dc8a3b-b784-432e-a781-5a1130a75963|History
 74b4a4b1-2302-4768-ac5b-9773dd456b08|Microsoft-Windows-EaseOfAccess
 439b11d6-de9c-4e2c-a84a-40f020ccb50a|Microsoft .NET Core AppHost Pack - 3.1.16 (x64_arm64)
 3d6be802-fc0d-4595-a304-e611f97089dc|Nero Scout
-138508bc-1e03-49ea-9c8f-ea9e1d05d65d|MAPI Shell Folder
-b4fb3f98-c1ea-428d-a78a-d1f5659cba93|Other Users Folder
+138508bc-1e03-49ea-9c8f-ea9e1d05d65d|Office 2013 related
+b4fb3f98-c1ea-428d-a78a-d1f5659cba93|Microsoft.NetworkAndSharingCenter /ShareMedia
 f2c628ae-d26c-4352-9c45-74754e1e2f9f|Microsoft-Windows-MPRMSG
 4a104570-ec6d-4560-a40f-858fa955e84f|Microsoft-Windows-Storage-Tiering
 15ca44ff-4d7a-4baa-bba5-0998955e531e|Microsoft-Windows-Kernel-Boot
@@ -2154,7 +2154,7 @@ fb6a424f-b5d6-4329-b9d5-a975b3a93ead|Security: WDigest
 6afbb1fc-92b4-38d1-8125-a5f297fda27d|Microsoft ASP.NET Core 3.1.22 Shared Framework (x64)
 bcf7ca0f-e53c-2a4f-b128-a751ec9a1016|WinRT Intellisense Desktop - en-us
 2d7904d8-5c90-4209-ba6a-4c08f409934c|Microsoft-Windows-StartLmhosts
-0ddd015d-b06c-45d5-8c4c-f59713854639|Local Pictures
+0ddd015d-b06c-45d5-8c4c-f59713854639|Local pictures
 5f0018c7-9d63-443d-b4a2-53973c4064fa|Microsoft Windows Desktop Runtime - 3.1.18 (x86)
 61f044af-9104-4ca5-81ee-cb6c51bb01ab|Microsoft-Windows-ThemeCPL
 78168022-eca5-41e8-9e17-e8c7fd77aae1|Microsoft-Windows-WWAN-UI-EVENTS
@@ -2179,7 +2179,7 @@ a71406b5-e487-4b01-8e59-d466841350f5|VS Immersive Activate Helper
 86133982-63d7-4741-928e-ef1349b80219|Microsoft-Windows-stobject
 6b566e5f-95f5-4624-96bc-506467d2b136|Microsoft .NET Core Runtime - 2.1.29 (x64)
 5d8087dd-3a9b-4f56-90df-49196cdc4f11|Microsoft-Windows-Direct3D12
-0b2baaeb-0042-4dca-aa4d-3ee8648d03e5|Pictures.Library
+0b2baaeb-0042-4dca-aa4d-3ee8648d03e5|Pictures Library
 2b3453e4-49df-11d3-8229-0080be509050|GmailDrive
 cba16cf2-2fab-49f8-89ae-894e718649e7|Microsoft-Windows-Processor-Aggregator
 b491cf75-92db-4c9d-9cc3-c610c456a52b|UltraFTP
@@ -2189,7 +2189,7 @@ b491cf75-92db-4c9d-9cc3-c610c456a52b|UltraFTP
 cd7cf0d0-02cc-4872-9b65-0dba0a90efe8|Error Instrument
 ab193eee-76af-43d3-bfc1-823ee43d7738|Microsoft .NET Host FX Resolver - 5.0.9 (x64)
 f0959e64-3e3e-4e29-8de1-1520f81dea60|EmEditor (64-bit)
-de61d971-5ebc-4f02-a3a9-6c82895e5c04|AddNewProgramsFolder
+de61d971-5ebc-4f02-a3a9-6c82895e5c04|Add new programs
 bd95a8cd-1d9f-35ad-981a-3e7925026ebb|Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
 0e270daa-1be6-48f2-ac49-af3692ed9c14|Creative Cloud Files
 2d2a1891-4657-4e6f-9373-bfce4c9ac5ba|Sophos Network Threat Protection
@@ -2259,7 +2259,7 @@ c100becf-d33a-4a4b-bf23-bbef4663d017|Microsoft-Windows-WCN-Config-Registrar
 71d642a9-f2b1-42cd-ad92-eb9300c7cc0a|StorageProviderPictures
 5ec13d8e-4b3f-422e-a7e7-3121a1d90c7a|Microsoft-Windows-ApplicationExperienceInfrastructure
 41c0db18-1790-465e-b0dd-d9caa35cacbe|Microsoft Command Line Utilities 15 for SQL Server
-20338b7b-531c-4aad-8011-f5b3db2123ec|Contacts.SearchResults
+20338b7b-531c-4aad-8011-f5b3db2123ec|Contacts Search Results
 d39b6336-cfcb-483b-8c76-7c3e7d02bcb8|Microsoft-Windows-Build-RegDll
 2a45d52e-bbf3-4843-8e18-b356ed5f6a65|Microsoft-Windows-IPMIProvider
 712abb2d-d806-4b42-9682-26da01d8b307|Microsoft-Windows-Video-For-Windows
