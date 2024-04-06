@@ -11,6 +11,7 @@ cafeefac-0017-0000-0301-abcdeffedcba|Java Plug-in 1.7.0_301
 d969a300-e7ff-11d0-a93b-00a0c90f2719|New Menu Handler
 07c45bb1-4a8c-4642-a1f5-237e7215ff66|IE Microsoft BrowserBand
 cafeefac-0017-0000-0139-abcdeffedcba|Java Plug-in 1.7.0_139
+e88865ea-0e1c-4e20-9aa6-edcd0212c87c|Gallery
 119817c9-666d-4053-aeda-627d0e25ccef|IIS W3 Control
 407d3903-490c-4bc0-82af-61c6bde57826|RSCA_WASSVC
 ab77e98e-0138-4c77-8bfb-decd33edfe3c|Microsoft-Windows-WebDeploy
