@@ -14,6 +14,7 @@ cafeefac-0017-0000-0139-abcdeffedcba|Java Plug-in 1.7.0_139
 e88865ea-0e1c-4e20-9aa6-edcd0212c87c|Gallery
 119817c9-666d-4053-aeda-627d0e25ccef|IIS W3 Control
 407d3903-490c-4bc0-82af-61c6bde57826|RSCA_WASSVC
+e7a015eb-ba2b-40c1-8113-008b21de693d|Proton Drive
 ab77e98e-0138-4c77-8bfb-decd33edfe3c|Microsoft-Windows-WebDeploy
 a52bba46-e9e1-435f-b3d9-28daa648c0f6|OneDrive
 d34bd155-6d84-443e-83ee-04c7682377e4|Pre-CFE Page Class
