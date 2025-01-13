@@ -12,8 +12,10 @@ d969a300-e7ff-11d0-a93b-00a0c90f2719|New Menu Handler
 07c45bb1-4a8c-4642-a1f5-237e7215ff66|IE Microsoft BrowserBand
 cafeefac-0017-0000-0139-abcdeffedcba|Java Plug-in 1.7.0_139
 e88865ea-0e1c-4e20-9aa6-edcd0212c87c|Gallery
+55de1ed1-3f3e-4c88-bc1a-819eff0be330|iPhone
 119817c9-666d-4053-aeda-627d0e25ccef|IIS W3 Control
 407d3903-490c-4bc0-82af-61c6bde57826|RSCA_WASSVC
+1b8deaa1-e192-429b-89a7-89bd19183a67|Tresorit
 e7a015eb-ba2b-40c1-8113-008b21de693d|Proton Drive
 ab77e98e-0138-4c77-8bfb-decd33edfe3c|Microsoft-Windows-WebDeploy
 a52bba46-e9e1-435f-b3d9-28daa648c0f6|OneDrive
