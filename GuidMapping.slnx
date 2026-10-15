@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+  </Configurations>
+  <Project Path="GuidMapping.Test/GuidMapping.Test.csproj" />
+  <Project Path="GuidMapping/GuidMapping.csproj" />
+</Solution>

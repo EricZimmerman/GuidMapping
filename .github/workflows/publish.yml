@@ -26,7 +26,6 @@ env:
   DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
   DOTNET_NOLOGO: true
   DOTNET_CLI_TELEMETRY_OPTOUT: true
-  DOTNET_VERSION: '10.0.x'
   NuGetDirectory: ${{ github.workspace }}/nuget
 
 defaults:
@@ -44,9 +43,7 @@ jobs:
         persist-credentials: false
 
     - name: Setup .NET
-      uses: actions/setup-dotnet@v6
-      with:
-        dotnet-version: ${{ env.DOTNET_VERSION }}
+      uses: actions/setup-dotnet@v6  # SDK version from global.json
 
     # Create the NuGet package in the folder from the environment variable NuGetDirectory
     - run: dotnet pack --configuration Release --output ${{ env.NuGetDirectory }}
@@ -65,9 +62,7 @@ jobs:
     needs: [ create_nuget ]
     steps:
       - name: Setup .NET
-        uses: actions/setup-dotnet@v6
-        with:
-          dotnet-version: ${{ env.DOTNET_VERSION }}
+        uses: actions/setup-dotnet@v6  # SDK version from global.json
 
       # Download the NuGet package created in the previous job
       - uses: actions/download-artifact@v8
@@ -93,9 +88,7 @@ jobs:
       with:
         persist-credentials: false
     - name: Setup .NET
-      uses: actions/setup-dotnet@v6
-      with:
-        dotnet-version: ${{ env.DOTNET_VERSION }}
+      uses: actions/setup-dotnet@v6  # SDK version from global.json
     - name: Run tests
       run: dotnet test --configuration Release
 
@@ -117,14 +110,11 @@ jobs:
           path: ${{ env.NuGetDirectory }}
 
       - name: Setup .NET
-        uses: actions/setup-dotnet@v6
-        with:
-          dotnet-version: ${{ env.DOTNET_VERSION }}
+        uses: actions/setup-dotnet@v6  # SDK version from global.json
 
       # Trusted publishing: exchanges the GitHub OIDC token for a short-lived NuGet API key.
-      # Enabled by setting the NUGET_USER repository variable to the nuget.org account that owns the policy.
+      # Requires a Trusted Publishing policy on nuget.org for this repo and publish.yml.
       - name: NuGet login (OIDC)
-        if: vars.NUGET_USER != ''
         id: login
         uses: NuGet/login@v1
         with:
@@ -135,8 +125,7 @@ jobs:
       # If you retry a failed workflow, already published packages will be skipped without error.
       - name: Publish NuGet package
         env:
-          # Falls back to the long-lived secret until trusted publishing is configured
-          NUGET_API_KEY: ${{ steps.login.outputs.NUGET_API_KEY || secrets.NUGET_APIKEY }}
+          NUGET_API_KEY: ${{ steps.login.outputs.NUGET_API_KEY }}
         run: |
           foreach($file in (Get-ChildItem "${{ env.NuGetDirectory }}" -Recurse -Include *.nupkg)) {
               dotnet nuget push $file --api-key "$env:NUGET_API_KEY" --source https://api.nuget.org/v3/index.json --skip-duplicate

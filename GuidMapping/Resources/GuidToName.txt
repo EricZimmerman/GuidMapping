@@ -547,7 +547,7 @@ e6ee9aac-f76b-4947-8260-a9f136138e11|IE Shell Band Site Menu
 e657ebe3-9854-4ee6-8d2a-2d885fc6e1db|Composite Windows Push Notification Polling Url Handler
 01e04581-4eee-11d0-bfe9-00aa005b4383|&Address
 eb36a2d2-ba9e-457f-8023-66ee08d4d955|SpGramCompBackEnd Class
-968ad211-d1b1-444b-9f59-51701d1128d3|psfactorybuffer
+968ad211-d1b1-444b-9f59-51701d1128d3|PSFactoryBuffer
 18d11ed9-1264-48a1-9e14-20f2c633242b|Shareaza.IEProtocol
 9e175b6e-f52a-11d8-b9a5-505054503030|Microsoft Embedded Search Gatherer Notification
 cafeefac-0014-0002-0089-abcdeffedcbb|Java Plug-in 1.4.2_89
@@ -691,7 +691,7 @@ cafeefac-0017-0000-0287-abcdeffedcbc|Java Plug-in 1.7.0_287
 9e175ba8-f52a-11d8-b9a5-505054503030|Search Null Word Breaker
 cafeefac-0014-0002-0000-abcdeffedcba|Java Plug-in 1.4.2
 39ab6541-f2e3-46b1-acee-eddc2bd8a26a|AcPePropertyEditorPwdText
-fd7f2b29-24d0-4b5c-b177-592c39f9ca10|psfactorybuffer
+fd7f2b29-24d0-4b5c-b177-592c39f9ca10|PSFactoryBuffer
 cafeefac-0016-0000-0116-abcdeffedcbb|Java Plug-in 1.6.0_116
 c4b741f5-5582-4c98-8f8b-2e082933c396|VirtioSerialVdev
 cc19079b-8272-4d73-bb70-cdb533527b61|HNetCfg.FwProducts
@@ -720,7 +720,7 @@ bd9231ab-26f9-4acf-ae04-371ff1af35e2|AcadBlockLinearParameterEntity
 c2745ec3-cf23-4601-92ef-d189b711f933|CAppointmentsProviderInternalChooseCalendarForViewActivationPlugin
 cafeefac-0018-0000-0138-abcdeffedcbb|Java Plug-in 1.8.0_138
 94357b53-ca29-4b78-83ae-e8fe7409134f|Drive Size Categorizer
-659cdeae-489e-11d9-a9cd-000d56965251|psfactorybuffer
+659cdeae-489e-11d9-a9cd-000d56965251|PSFactoryBuffer
 19ad99ae-0dd2-495a-aac4-015e479722fd|Virtual Smart Card Manager PSFactory
 cafeefac-0018-0000-0083-abcdeffedcbb|Java Plug-in 1.8.0_83
 7988b573-ec89-11cf-9c00-00aa00a14f56|Microsoft Disk Quota UI
@@ -1171,7 +1171,7 @@ ed081f25-6a77-4c89-b689-c6e15c582ec1|Microsoft.RAPIMgr.1
 2386cb87-96ff-473d-a009-957e3bfe6f88|TeraCopy Shell Extension
 884e200b-217d-11da-b2a4-000e7bbb2b09|X509 Public Key
 76dba919-5a36-fc80-2cad-3185532b7cb1|MSADCE.1
-056d528d-ce28-4194-9ba3-ba2e9197ff8c| MEGA (Pending)
+056d528d-ce28-4194-9ba3-ba2e9197ff8c|MEGA (Pending)
 275c23e2-3747-11d0-9fea-00aa003f8646|Multi Language Support
 c4bf2784-ae00-41ba-9828-9c953bd3c54a|MSVidCtl CC to Video Renderer Composition Segment
 7db875bd-1b88-4c5f-9e4c-ed23eaff24e1|Running Share Manager
@@ -1356,7 +1356,7 @@ cafeefac-0017-0000-0313-abcdeffedcba|Java Plug-in 1.7.0_313
 86747ac0-42a0-1069-a2e6-08002b30309d|Briefcase Folder
 bc97b970-d001-482f-8745-b8d7d5759f99|Microsoft-Windows-MediaFoundation-Platform
 cafeefac-0013-0001-0043-abcdeffedcbb|Java Plug-in 1.3.1_43
-64708a78-9fa0-4606-8eb7-215e1bc3fa9d|psfactorybuffer
+64708a78-9fa0-4606-8eb7-215e1bc3fa9d|PSFactoryBuffer
 cafeefac-0016-0000-0016-abcdeffedcba|Java Plug-in 1.6.0_16
 cafeefac-0016-0000-0172-abcdeffedcbc|Java Plug-in 1.6.0_172
 d5f7235b-48e2-4e9c-92fe-0e4950aba9e8|Microsoft-Windows-WEPHOSTSVC
@@ -2291,7 +2291,7 @@ cafeefac-0015-0000-0080-abcdeffedcbb|Java Plug-in 1.5.0_80
 cafeefac-0017-0000-0164-abcdeffedcba|Java Plug-in 1.7.0_164
 22b66d4d-bc01-4119-9364-71ef9a06efc9|Egnyte
 81539fe6-33c7-4ce7-90c7-1c7b8f2f2d40|Google Drive Shell extension
-8a9263d3-fd4c-4eda-9b28-30132a4d4e3c|psfactorybuffer
+8a9263d3-fd4c-4eda-9b28-30132a4d4e3c|PSFactoryBuffer
 0be35201-8f91-11ce-9de3-00aa004bb851|Color Property Page
 cafeefac-0017-0000-0280-abcdeffedcba|Java Plug-in 1.7.0_280
 87d66a43-7b11-4a28-9811-c86ee395acf7|Indexing Options Control Panel
@@ -2822,7 +2822,7 @@ e2e8a2a9-935d-4bb5-9347-717ddaeb327f|AcPePropertyEditorMTextDir
 09fd2eff-5669-11d3-b65f-00c04f8ef32d|Microsoft Publisher Document
 a6787db4-f958-4938-855b-594534865351|Immersive Print Dialog
 067b4b81-b1ec-489f-b111-940ebdc44ebe|WMDM CE Device Service Provider
-9a2584c3-f7d2-457a-9a5e-22b67bffc7d2|psfactorybuffer
+9a2584c3-f7d2-457a-9a5e-22b67bffc7d2|PSFactoryBuffer
 cafeefac-0018-0000-0059-abcdeffedcba|Java Plug-in 1.8.0_59
 cafeefac-0015-0000-0025-abcdeffedcbc|Java Plug-in 1.5.0_25
 74827cbb-1e0f-45a2-8523-c605866d2f22|Microsoft-Windows-WindowsUIImmersive
@@ -3251,7 +3251,7 @@ d90ef6cf-32cb-476d-b57c-1a71e58e8301|Incinerator
 cafeefac-0016-0000-0156-abcdeffedcbb|Java Plug-in 1.6.0_156
 7eb5fbe4-2100-49e6-8593-17e130122f91|Fade Task
 30766bd2-ea1c-4f28-bf27-0b44e2f68db7|Windows Search Root
-98c97bd2-e32b-4ad8-a528-95fd8b16bd42|psfactorybuffer
+98c97bd2-e32b-4ad8-a528-95fd8b16bd42|PSFactoryBuffer
 112bc2e7-9ef9-3648-af9e-45c0d4b89929|System.TypeLoadException
 d804a67f-4c25-43c1-896f-89ff78b3a911|WMP Network Sharing Taskbar
 9381d8f5-0288-11d0-9501-00aa00b911a5|RDSServer.DataFactory
@@ -3433,7 +3433,7 @@ aedae7a2-e503-487b-8808-df0bddb5c422|PSFactoryBuffer
 83bf6728-a96e-4228-b442-db539208d56e|PSFactoryBuffer
 e1553e07-5939-4cfd-be24-3bceba2f148c|Proxy CLSID
 75ca41c9-9f1d-41bc-9285-65595759e52b|DeclaredConfiguration
-f1bd1079-9f01-4bdc-8036-f09b70095066|psfactorybuffer
+f1bd1079-9f01-4bdc-8036-f09b70095066|PSFactoryBuffer
 8d8b8e30-c451-421b-8553-d2976afa648c|Sync Center Schedule Wizard
 47bfa2b7-bd54-4fac-b70b-29021084ca8f|Application Popup
 b42bf427-afdb-c00f-db60-6f51395d74a1|WinRT Intellisense Desktop - Other Languages
@@ -3555,7 +3555,7 @@ cafeefac-0016-0000-0046-abcdeffedcba|Java Plug-in 1.6.0_46
 9df523b0-a6c0-4ea9-b5f1-f4565c3ac8b8|Date and Time Properties
 4b7a83d5-cf71-40ad-ab0f-bf6830e95330|UiaManager
 cafeefac-0017-0000-0035-abcdeffedcbb|Java Plug-in 1.7.0_35
-562462dd-4f9a-4110-9d6a-c3ca0407ff76|psfactorybuffer
+562462dd-4f9a-4110-9d6a-c3ca0407ff76|PSFactoryBuffer
 cafeefac-0017-0000-0343-abcdeffedcbb|Java Plug-in 1.7.0_343
 8e6b6962-ab54-4335-8229-3255b919dd0e|WMI_Tracing_Client_Operations
 150f28f1-49a5-4c28-be1a-cfa854a1d04b|TPM Virtual Smart Card VCard Module Manager
@@ -4132,7 +4132,7 @@ cafeefac-0018-0000-0241-abcdeffedcbc|Java Plug-in 1.8.0_241
 f3c502d1-96de-4623-b22c-8373fc803ab4|WiredNetworkCSP
 e3d5d93c-1663-4a78-a1a7-22375dfebaee|InkTransform Class
 39472c07-79c6-4924-96e6-41f699cbad9c|CLSID_ShellTargetingTracker
-05b38830-f4e9-4329-978b-1dd28605d202| MEGA (Synced)
+05b38830-f4e9-4329-978b-1dd28605d202|MEGA (Synced)
 cafeefac-0016-0000-0213-abcdeffedcbc|Java Plug-in 1.6.0_213
 c84c2da1-52e2-4183-8f20-88176b77848f|Microsoft .NET Runtime - 5.0.13 (x64)
 021003e9-aac0-4975-979f-14b5d4e717f8|LocalCopyHelper
@@ -5011,7 +5011,7 @@ cafeefac-0016-0000-0020-abcdeffedcba|Java Plug-in 1.6.0_20
 cafa653b-f9de-4be7-9762-3309e612690d|Open Packaging API Factory Object
 ed1d0fdf-4414-470a-a56d-cfb68623fc58|Play with Windows Media Player Legacy
 cafeefac-0015-0000-0001-abcdeffedcbc|Java Plug-in 1.5.0_01
-3da494e4-0fe2-415c-b895-fb5265c5c8microsoft-windows-devicemanagement-enterprise-diagnostics-provider3b|
+3da494e4-0fe2-415c-b895-fb5265c5c83b|Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider
 ead4e66c-102f-4ed0-85b5-a1c9037a6e8b|Brother Printer Driver
 cafeefac-0016-0000-0063-abcdeffedcba|Java Plug-in 1.6.0_63
 ea30c654-c62c-441f-ac00-95f9a196782c|GestureRecognizer Class
@@ -5468,7 +5468,7 @@ e7ed314f-2816-4c26-aeb5-54a34d02404c|KernelCeipCustomHandler
 afe654eb-0a83-4eb4-948f-d4510ec39c30|Microsoft-Windows-Sdstor
 cafeefac-0017-0000-0254-abcdeffedcbb|Java Plug-in 1.7.0_254
 ecabb0c7-7f19-11d2-978e-0000f8757e2a|SOAP Moniker
-741c6be3-f74b-4e4d-88e7-5ce3a3microsoft-windows-remotedesktopservices-remotefx-vm-user-mode-transport5faeb3|
+741c6be3-f74b-4e4d-88e7-5ce3a35faeb3|Microsoft-Windows-RemoteDesktopServices-RemoteFX-VM-User-Mode-Transport
 aa28fbc7-59f1-4c42-9fd8-ba2be27ea319|Select All command invocation
 336475d0-942a-11ce-a870-00aa002feab5|MPEG-I Stream Splitter
 962f5027-99be-4692-a468-85802cf8de61|XACT Engine
@@ -5825,7 +5825,7 @@ cafeefac-0017-0000-0184-abcdeffedcbc|Java Plug-in 1.7.0_184
 2e836d29-9a10-4af3-a00b-2d524afd6265|InputSwitcherManager
 b0c43320-2315-44a2-b70a-0943a140a8ee|XPS Signature Manager
 12d51199-0db5-46fe-a120-47a3d7d937cc|DVD: Pluggable Protocol
-0596c850-7bdd-4c9d-afdf-873be6890637| MEGA (Syncing)
+0596c850-7bdd-4c9d-afdf-873be6890637|MEGA (Syncing)
 6129c4b2-9397-4e58-bcd8-ced219d0cd33|LocationRevocationHandler
 d9230e09-3737-43f5-8c78-bc4c83dc296c|OneNote NoteLinkMeta Class
 cafeefac-0017-0000-0011-abcdeffedcba|Java Plug-in 1.7.0_11
@@ -5897,7 +5897,7 @@ cbf257b9-2d5b-4876-bb74-3d5eb1cc7313|(S:)
 cbf257b9-2d5b-4876-bb74-3d5eb1cc7303|(C:)
 4c8d0af0-7bf0-4f33-9117-981a33dbd4e6|FilePlaybackTerminal Class
 fb11047a-4051-4d1d-9dca-c80c5df98d70|CSimpleWAPNodeProcessor
-aaf67066-0bf8-469f-ab76-27microsoft-windows-powershell-desiredstateconfiguration-filedownloadmanager5590c434ee|
+aaf67066-0bf8-469f-ab76-275590c434ee|Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager
 6326a3ce-62d5-4080-b682-cd152d507d0b|AcPePropertyEditorPredefBlock
 945186bf-3dd6-4f3f-9c8e-9edd3fc9d558|Disk Class Driver Tracing Provider
 dfb392ef-085e-4576-b96c-1cb253817e36|Photoshop BitmapConversionOptions
@@ -6471,7 +6471,7 @@ b1e7d0fd-7cfe-4e0c-a5da-0f676499db91|Windows PC Health Check
 6c337b26-3e38-4f98-813b-fba18bab64f5|Reader Search Handler
 3050f406-98b5-11cf-bb82-00aa00bdce0b|Microsoft HTML About Pluggable Protocol
 e388f56a-d03b-4a08-adc3-e44ca937ad91|EdgeUI Device Manager
-c5c91aa6-3e83-430e-8b7a-6b790083f28d|Microsoft Azure Libraries for .NET  v2.9
+c5c91aa6-3e83-430e-8b7a-6b790083f28d|Microsoft Azure Libraries for .NET – v2.9
 618473bc-8eef-4868-adff-a1b640b06411|Microsoft-Windows-MCCS-InternetMail
 289a9a43-be44-4057-a41b-587a76d7e7f9|SyncResultsFolder
 cafeefac-0018-0000-0185-abcdeffedcbc|Java Plug-in 1.8.0_185
@@ -7543,7 +7543,7 @@ cafeefac-0016-0000-0039-abcdeffedcbc|Java Plug-in 1.6.0_39
 cafeefac-0017-0000-0259-abcdeffedcbb|Java Plug-in 1.7.0_259
 e64604f4-9374-4520-9a07-563c0a5682b2|EnCase64 Class
 cafeefac-0018-0000-0282-abcdeffedcbb|Java Plug-in 1.8.0_282
-b591a192-a405-4fc3-8323-4c5c542578fc|psfactorybuffer
+b591a192-a405-4fc3-8323-4c5c542578fc|PSFactoryBuffer
 3d85cb81-c520-436f-8c9a-8292041a9bdd|NarratorSimpleEdit Class
 dfd888a7-a6b0-3b1b-985e-4cdab0e4c17d|System.Diagnostics.SymbolStore.SymLanguageVendor
 cafeefac-0016-0000-0140-abcdeffedcbb|Java Plug-in 1.6.0_140
@@ -7769,7 +7769,7 @@ daf95313-e44d-46af-be1b-cbacea2c3065|Start Menu Provider Folder
 cafeefac-0016-0000-0160-abcdeffedcbb|Java Plug-in 1.6.0_160
 cafeefac-0016-0000-0217-abcdeffedcba|Java Plug-in 1.6.0_217
 d450a8a1-9568-45c7-9c0e-b4f9fb4537bd|Installed Updates
-b3b76e11-bd89-492c-a174-136d65742e96|psfactorybuffer
+b3b76e11-bd89-492c-a174-136d65742e96|PSFactoryBuffer
 aa1b0e54-7593-40a0-8135-ed0b6cbc0154|Media Foundation MPEG2 MUX MFT Activate
 30590066-98b5-11cf-bb82-00aa00bdce0b|SVG Document
 38fe8dfe-b129-452b-a215-119382b89e3d|Speech Named Pipe COM
@@ -8119,7 +8119,7 @@ cafeefac-0017-0000-0121-abcdeffedcbc|Java Plug-in 1.7.0_121
 cafeefac-0013-0001-0083-abcdeffedcba|Java Plug-in 1.3.1_83
 cafeefac-0018-0000-0031-abcdeffedcbc|Java Plug-in 1.8.0_31
 2a49de31-8a5b-4d3a-a904-7fc7409ae90d|Microsoft-Windows-MFH264Enc
-6ec153c1-371e-47e1-a896-2f7f80eb7842|psfactorybuffer
+6ec153c1-371e-47e1-a896-2f7f80eb7842|PSFactoryBuffer
 c3701884-b39b-11d1-9d68-00c04fc30df6|OleInstall Class
 b7a44f26-0114-4285-b4ba-c9e78c4f9416|NbDocView Class
 59031a47-3f72-44a7-89c5-5595fe6b30ee|Shared Documents Folder (Users Files)
@@ -9160,7 +9160,7 @@ cafeefac-0017-0000-0242-abcdeffedcbc|Java Plug-in 1.7.0_242
 a6edd1a5-1aca-4110-9b21-ad7edc210ca3|RtkRecSFX Class
 1aa9bf05-9a97-48c1-ba28-d9dce795e93c|PDF Persistent Handler
 137a78d3-65b7-4e2f-851c-6ec4b633b436|EE P Analog Premium Class
-69a95a38-c637-46a0-9fb2-1c939aebf2e8|psfactorybuffer
+69a95a38-c637-46a0-9fb2-1c939aebf2e8|PSFactoryBuffer
 818d2d10-8a8c-4270-b044-af1a5759d73c|RtkRenderNsPage Class
 770e8e77-4916-441c-a9a7-b342d0eebc71|MF ByteStream Proxy Class Factory
 71f9bb80-b88f-48ec-ba54-f92f732208a3|PSFactoryBuffer
@@ -9484,7 +9484,7 @@ cafeefac-0018-0000-0222-abcdeffedcba|Java Plug-in 1.8.0_222
 3fbf60bd-90b2-2c2f-7286-128bbcf72015|PSFactoryBuffer
 55ab77f6-fa04-43ef-af45-688fbf500482|Microsoft-Windows-GPIO-ClassExtension
 c27cc672-3095-4da8-9805-9bb2a4065704|Microsoft Visual C++ 2022 X86 Additional Runtime - 14.30.30708
-ef7e0655-7888-4960-b0e5-730846e03492|psfactorybuffer
+ef7e0655-7888-4960-b0e5-730846e03492|PSFactoryBuffer
 e44e5d18-0652-4508-a4e2-8a090067bcb0|Default Programs command object for Start menu
 baea8dc9-45f5-4df8-a27f-2a277d524b15|WIA Extension Host for 64 bit extensions
 78766964-0000-0010-8000-00aa00389b71|DivX Decoder Filter
@@ -9768,7 +9768,6 @@ efeb5035-1da0-4b73-afa2-68ed7a1d98e0|RetailInfoSetterInternal
 35b3da31-0db4-4420-aab4-998a8571e059|Start Layout Setting Handler
 577faa18-4518-445e-8f70-1473f8cf4ba4|Utility Object for Binding Events SubObjects in Script Variables
 cafeefac-0015-0000-0046-abcdeffedcbc|Java Plug-in 1.5.0_46
-6da1ed92-315e-4d0b-b354-9d5f519dba95|   
 cafeefac-0016-0000-0190-abcdeffedcba|Java Plug-in 1.6.0_190
 cafeefac-0018-0000-0094-abcdeffedcbc|Java Plug-in 1.8.0_94
 cafeefac-0018-0000-0229-abcdeffedcba|Java Plug-in 1.8.0_229
@@ -13117,7 +13116,7 @@ cafeefac-0016-0000-0191-abcdeffedcbc|Java Plug-in 1.6.0_191
 acd71912-705e-4c3e-90bd-14f31595d361|Windows.Help.Runtime.HelpFilter
 c7f70a09-f3f8-4344-a688-6bc747a694b6|PSFactoryBuffer
 00c6d95f-329c-409a-81d7-c46c66ea7f33|Default Location
-4cec0d02-def7-4158-813a-c32a46945ff7|psfactorybuffer
+4cec0d02-def7-4158-813a-c32a46945ff7|PSFactoryBuffer
 7f812073-b28d-4afc-9ced-b8010f914ef6|Microsoft-Windows-PrintService-USBMon
 e1de74ad-c368-4104-adb1-57d00577247a|WLAN Media Manager
 f5078f33-c551-11d3-89b9-0000f81fe221|Free Threaded XML DOM Document 3.0
@@ -13368,7 +13367,7 @@ b032b582-f042-4ddc-b904-8f8b250f65b5|AcadDgnUnderlay
 26ec0b63-aa90-458a-8df4-5659f2c8a18a|BDA Tuning Model Digital Cable Tune Request
 e856c26a-e105-4683-a948-6920dcc42e45|Microsoft-Windows-DirectWrite-FontCache
 adc6cb86-424c-11d2-952a-00c04fa34f05|DropShadow
-cf6784f7-d677-49fd-9368-cb47aee9d1ad|psfactorybuffer
+cf6784f7-d677-49fd-9368-cb47aee9d1ad|PSFactoryBuffer
 cafeefac-0016-0000-0219-abcdeffedcbb|Java Plug-in 1.6.0_219
 87045ce9-5323-438f-93bb-1e83dcbce18e|DmaVdev
 adc6cb88-424c-11d2-952a-00c04fa34f05|Wave
@@ -14348,7 +14347,7 @@ cafeefac-0017-0000-0208-abcdeffedcbc|Java Plug-in 1.7.0_208
 64f2005c-6cf5-4652-b94f-600360b15b27|Haali Matroska Parser
 cdf5dd86-4f10-4386-92af-df0f30719fdf|PSFactoryBuffer
 54b50739-686f-45eb-9dff-d6a9a0faa9af|PSFactoryBuffer
-15eae92e-f17a-4431-9f28-805e482dafd4|Install New Programs 
+15eae92e-f17a-4431-9f28-805e482dafd4|Install New Programs
 27858bb8-4dab-4245-a780-332fb0801c8b|AcadDynamicBlockReferenceProperty
 3d07a539-35ca-447c-9b05-8d85ce924f9e|Closed Captions Analysis Filter
 cafeefac-0017-0000-0331-abcdeffedcba|Java Plug-in 1.7.0_331
