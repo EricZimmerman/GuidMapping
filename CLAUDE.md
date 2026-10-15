@@ -8,7 +8,7 @@ A small `netstandard2.0` NuGet library that maps GUIDs to human-readable names. 
 
 ## Commands
 
-The SDK is pinned in `global.json` (.NET 10). The library targets `netstandard2.0` (default C# 7.3 — avoid newer syntax there); tests target `net10.0` and use NUnit 4.
+The SDK is pinned in `global.json` (.NET 10). The library targets `netstandard2.0` (default C# 7.3 — avoid newer syntax there); tests target `net10.0` and use NUnit 5.
 
 ```bash
 dotnet build
