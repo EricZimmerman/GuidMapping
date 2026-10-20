@@ -13,5 +13,6 @@
     <ProjectReference Include="../GuidMapping/GuidMapping.csproj" />
     <!-- Raw data file, so tests can validate every line rather than only what the loader accepted -->
     <None Include="../GuidMapping/Resources/GuidToName.txt" Link="GuidToName.txt" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../GuidMapping/Resources/GuidPrefixToName.txt" Link="GuidPrefixToName.txt" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 </Project>

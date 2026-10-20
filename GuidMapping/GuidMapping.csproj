@@ -26,6 +26,7 @@
     <None Include="../README.md" Pack="true" PackagePath=""/>
     <None Include="../icon.png" Pack="true" PackagePath=""/>
     <EmbeddedResource Include="Resources/GuidToName.txt" LogicalName="GuidMapping.GuidToName.txt" />
+    <EmbeddedResource Include="Resources/GuidPrefixToName.txt" LogicalName="GuidMapping.GuidPrefixToName.txt" />
     <InternalsVisibleTo Include="GuidMapping.Test" />
     <PackageReference Include="DotNet.ReproducibleBuilds" Version="2.0.5">
       <PrivateAssets>all</PrivateAssets>

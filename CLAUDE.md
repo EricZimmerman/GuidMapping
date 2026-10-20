@@ -22,10 +22,11 @@ dotnet pack --configuration Release
 - Data lives in `GuidMapping/Resources/GuidToName.txt`, one `guid|description` per line (~14k lines). Most changes to this repo are additions to this file.
 - It is a plain `EmbeddedResource` with `LogicalName` `GuidMapping.GuidToName.txt`, read once by the static initializer into a `Dictionary<Guid, string>` (first entry for a GUID wins).
 - `TryParseLine` (internal, exposed to tests via `InternalsVisibleTo`) is the single parser for both the loader and the tests.
+- GUID families (one GUID per account or install: OneDrive's `04271989-*` and Creative Cloud's `0e270daa-1be6-48f2-ac49-*` sync roots) are mapped by prefix in `GuidMapping/Resources/GuidPrefixToName.txt` (`prefix|description`; the start of a lowercase `D` format GUID with its hyphens, at least 8 characters; parsed by `TryParsePrefixLine`). A prefix is only used when the exact GUID is not in `GuidToName.txt`, and the longest matching prefix wins.
 
 ## Editing the data file
 
-`DataFileTests` enforce the format, so run the tests after any data change:
+`DataFileTests` (and `PrefixFileTests` for the prefix file) enforce the format, so run the tests after any data change:
 - UTF-8 with BOM, CRLF line endings only.
 - Canonical lines: lowercase hyphenated GUID, no braces, no padding around either field, non-empty description, no control characters.
 - No duplicate GUIDs.
