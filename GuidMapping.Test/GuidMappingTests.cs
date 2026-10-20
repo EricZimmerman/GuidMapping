@@ -69,6 +69,67 @@ namespace GuidMapping.Test
     }
 
     [TestFixture]
+    public class PrefixFileTests
+    {
+        private static readonly string DataPath = Path.Combine(TestContext.CurrentContext.TestDirectory, "GuidPrefixToName.txt");
+
+        private static string[] Lines()
+        {
+            return File.ReadAllText(DataPath, Encoding.UTF8).Split(new[] { "\r\n" }, StringSplitOptions.None);
+        }
+
+        [Test]
+        public void FileIsUtf8WithBomAndCrlfOnly()
+        {
+            var bytes = File.ReadAllBytes(DataPath);
+            Assert.That(bytes.Take(3), Is.EqualTo(new byte[] { 0xEF, 0xBB, 0xBF }), "missing UTF-8 BOM");
+
+            var text = Encoding.UTF8.GetString(bytes);
+            Assert.That(text.Replace("\r\n", "").IndexOfAny(new[] { '\r', '\n' }), Is.EqualTo(-1), "bare CR or LF line ending");
+        }
+
+        [Test]
+        public void EveryLineIsWellFormed()
+        {
+            var bad = Lines()
+                .Where(l => l.Length > 0)
+                .Where(l => Map.TryParsePrefixLine(l, out var prefix, out var desc) == false
+                            || l != $"{prefix}|{desc}"
+                            || desc.Any(char.IsControl))
+                .ToList();
+
+            Assert.That(bad, Is.Empty);
+        }
+
+        [Test]
+        public void NoDuplicatePrefixes()
+        {
+            var dupes = Lines()
+                .Where(l => l.Length > 0)
+                .GroupBy(l => l.Split('|')[0])
+                .Where(g => g.Count() > 1)
+                .Select(g => g.Key);
+
+            Assert.That(dupes, Is.Empty);
+        }
+
+        [TestCase("04271989-|OneDrive", true)]
+        [TestCase("0e270daa-1be6-48f2-ac49-|Creative Cloud Files", true)]
+        [TestCase("0e270daa-1be6-48f2-ac49-0|x", true)]
+        [TestCase("0E270DAA-|uppercase", false)]
+        [TestCase("0427198|too short", false)]
+        [TestCase("042719890c4d2|no hyphen", false)]
+        [TestCase("{04271989-|braces", false)]
+        [TestCase("04271989-c4d2-b8f6-2d7a-c6fffc2420dd|whole guid", false)]
+        [TestCase("04271989-|", false)]
+        [TestCase("04271989-", false)]
+        public void PrefixLines(string line, bool valid)
+        {
+            Assert.That(Map.TryParsePrefixLine(line, out _, out _), Is.EqualTo(valid));
+        }
+    }
+
+    [TestFixture]
     public class LookupTests
     {
         private const string Known = "3da494e4-0fe2-415c-b895-fb5265c5c83b";
@@ -101,6 +162,32 @@ namespace GuidMapping.Test
         {
             Assert.That(Map.TryGetDescription(input, out var desc), Is.False);
             Assert.That(desc, Is.Null);
+            Assert.That(Map.GetDescriptionFromGuid(input), Is.EqualTo($"Unmapped GUID: {input}"));
+        }
+
+        [TestCase("04271989-c4d2-d886-6546-56755f9d6a55", "OneDrive (per-account sync root)")]
+        [TestCase("04271989-4a69-cd1d-35cd-c48f54d9c98c", "OneDrive (per-account sync root)")]
+        [TestCase("{04271989-C4D2-1641-FD8E-F477126E208E}", "OneDrive (per-account sync root)")]
+        [TestCase("0e270daa-1be6-48f2-ac49-063c719685ff", "Creative Cloud Files")]
+        [TestCase("0E270DAA1BE648F2AC495771D3C50873", "Creative Cloud Files")]
+        public void FamiliesAreMappedByPrefix(string input, string expected)
+        {
+            Assert.That(Map.TryGetDescription(input, out var desc), Is.True);
+            Assert.That(desc, Is.EqualTo(expected));
+            Assert.That(Map.GetDescriptionFromGuid(new Guid(input)), Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void ExactGuidWinsOverItsPrefix()
+        {
+            Assert.That(Map.GetDescriptionFromGuid("04271989-c4d2-b8f6-2d7a-c6fffc2420dd"), Is.EqualTo("OneDrive Business"));
+        }
+
+        [TestCase("0e270daa-1be6-48f2-ac48-063c719685ff")]
+        [TestCase("04271988-c4d2-d886-6546-56755f9d6a55")]
+        public void NearMissesOfAPrefixAreUnmapped(string input)
+        {
+            Assert.That(Map.TryGetDescription(input, out _), Is.False);
             Assert.That(Map.GetDescriptionFromGuid(input), Is.EqualTo($"Unmapped GUID: {input}"));
         }
 
